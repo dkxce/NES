@@ -1,0 +1,24 @@
+SC8418:B5:D6:Infinite energy on scenes 1 and 4[GGC]
+SC86C0:A5:C6:Infinite energy on scene 2[GGC]
+SC84B2:A5:C6:Infinite time on scenes 1 and 4[GGC]
+SC81AB:04:02:More time on scene 1[GGC]
+SC81AB:01:02:Less time on scene 1[GGC]
+SC802B:06:04:More time on scene 2[GGC]
+SC802B:02:04:Less time on scene 2[GGC]
+SC802F:06:04:More time on scene 3[GGC]
+SC802F:02:04:Less time on scene 3[GGC]
+SC8021:06:05:More time on scene 5[GGC]
+SC8021:03:05:Less time on scene 5[GGC]
+SC8018:02:01:More time on scene 7[GGC]
+SC847E:20:10:More ammo picked up on scene 2[GGC]
+SC847E:05:10:Less ammo picked up on scene 2[GGC]
+SC801C:09:06:More ammo picked up on scene 7[GGC]
+SCC02E:00:0C:Start on scene 2[GGC]
+SCC02E:02:0C:Start on scene 3[GGC]
+SCC02E:04:0C:Start on scene 4[GGC]
+SCC02E:06:0C:Start on scene 5[GGC]
+SCC02E:0A:0C:Start on scene 7[GGC]
+0092:40:Infinite health
+009A:09:Infinite time
+00C6:02:Infinite ammo (1 of 2)
+00C8:02:Infinite ammo (2 of 2)

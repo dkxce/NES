@@ -1,0 +1,4558 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<launcher version="1.1">
+    <ines>
+        <file>Alien 3 (U) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>25D006F2</crc>
+        <sha1>36F07CA29E0EB2D6242FC0AAFA0A31110A29911E</sha1>
+    </ines>
+    <ines>
+        <file>Alien 3_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E4C061A0</crc>
+        <sha1>737B281AB07A054B44507483F82EA5D275DE9313</sha1>
+    </ines>
+    <ines>
+        <file>Batman - Return of the Joker_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>69</mapper>
+        <crc>60E4AB48</crc>
+        <sha1>A748BAE74F47F4ED9EB9544C51C8D54C85F49134</sha1>
+    </ines>
+    <ines>
+        <file>Batman Returns_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>67A057B8</crc>
+        <sha1>3FFBEAB104CF475AAE3645A3E1B8295970407CE1</sha1>
+    </ines>
+    <ines>
+        <file>Batman_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>9C5C15C5</crc>
+        <sha1>0A16D5557BD4A9C2BC05B62C846F0A22CAEB49A0</sha1>
+    </ines>
+    <ines>
+        <file>Battletoads &amp; Double Dragon - The Ultimate Team_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>CD5260CC</crc>
+        <sha1>E25360517E8A6DAEF50137CE929D2DAFF24BE8F4</sha1>
+    </ines>
+    <ines>
+        <file>Battletoads &amp; Double Dragon_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>A61076E1</crc>
+        <sha1>D699D2C68A2DAD684031BEEC9F82DAD1E757C7C9</sha1>
+    </ines>
+    <ines>
+        <file>Battletoads_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>9967032C</crc>
+        <sha1>B4AB95B61A31484846B8511A192F3DE6F4D327A5</sha1>
+    </ines>
+    <ines>
+        <file>Battletoads_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>90E448D4</crc>
+        <sha1>483ECE7A23792CD4E7211AFCC9C1DEF24986A70F</sha1>
+    </ines>
+    <ines>
+        <file>Bomberman (Графика).nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>EF50AAEA</crc>
+        <sha1>E4664E04946497588A5E75D83C96BE60F65B7A0B</sha1>
+    </ines>
+    <ines>
+        <file>Bomberman (Сплошные кирпичи).nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>CE3CD138</crc>
+        <sha1>A1FCF94C86CF5D8C2D7BDBF184C7519D3903A556</sha1>
+    </ines>
+    <ines>
+        <file>Bomberman (Сплошные подарки).nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>3F9E332A</crc>
+        <sha1>E42F38FF8053D8F1027BAD6E79305F4B09D42396</sha1>
+    </ines>
+    <ines>
+        <file>Castlevania II - Simon&apos;s Quest_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>A98F33AD</crc>
+        <sha1>14E7E031D99251BE947F28119FFACBB511483D68</sha1>
+    </ines>
+    <ines>
+        <file>Castlevania III - Dracula&apos;s Curse_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>24</mapper>
+        <crc>CBED52FC</crc>
+        <sha1>4DE90112991512E75661281606DF9957D1457DF5</sha1>
+    </ines>
+    <ines>
+        <file>Castlevania_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>31606DB3</crc>
+        <sha1>ED02294BB2C82733DD70960BD74147CB9CA21DFC</sha1>
+    </ines>
+    <ines>
+        <file>Chip &apos;n Dale Rescue Rangers (U) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>882F4D4F</crc>
+        <sha1>EAC2890E1111141CB7A6FD3502E30EF91C7D0AC4</sha1>
+    </ines>
+    <ines>
+        <file>Chip &apos;n Dale Rescue Rangers 2 [T+Rus_Shedevr](BasketHack).nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>6519990C</crc>
+        <sha1>26D0AA4297943D6E7CDC926A0D64089F1B02B417</sha1>
+    </ines>
+    <ines>
+        <file>Chip &apos;n Dale Rescue Rangers 2 [T+Rus_Shedevr](BonusHack).nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>DF110FC9</crc>
+        <sha1>2DEAEA00F360DE36654CE08035E8DFEA79B97C9A</sha1>
+    </ines>
+    <ines>
+        <file>Contra_Softcore.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <mapper>23</mapper>
+        <crc>47E5CEC7</crc>
+        <sha1>632F897A496DA8DEDD7CCDF602F8D7642A4C3D1F</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon III - The Sacred Stones_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>BF4091DF</crc>
+        <sha1>D82650FA9A9D34256D6476E119483D5EC15828E8</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>052EC17D</crc>
+        <sha1>0E5B7788163A48280D9103477A26CFDE203E8AD9</sha1>
+    </ines>
+    <ines>
+        <file>Dragon Lair Easy.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>13F911C9</crc>
+        <sha1>1F90DF029BD4B51E1C4DB93FE426ADDA92C2A73F</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales (U) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>64014A46</crc>
+        <sha1>E14948CC655492902E03CD420736E3A126B37AFC</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales 2 Besmertie.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>14C13B5B</crc>
+        <sha1>ACC35BE0042888DF17542943FA0D1E1C6EF50A31</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales 2 New impressions.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>B90AE3F5</crc>
+        <sha1>6B7C9839063F444F48FC12A7853B080C178F3B9B</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales bessmertie.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>96213CC0</crc>
+        <sha1>FBD38E022961BFC64B53E7C3E9EA0F5F990538A3</sha1>
+    </ines>
+    <ines>
+        <file>Making Love (Battle City Hack) [T+Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>4F383D0C</crc>
+        <sha1>4B5F6BCCB6A1364DE1AE53FDCA4201130DE345FC</sha1>
+    </ines>
+    <ines>
+        <file>Missile Tank [T+Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <mapper>3</mapper>
+        <crc>DC09D91F</crc>
+        <sha1>CBB1F5E1481099612F831DD7801F207E9D951424</sha1>
+    </ines>
+    <ines>
+        <file>Missile Tank [t1] [T+Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <mapper>3</mapper>
+        <crc>3C9D0FA1</crc>
+        <sha1>042E87210A4EBA4F49D7CC892F3EA29CC08B67C9</sha1>
+    </ines>
+    <ines>
+        <file>Ninja Gaiden (U) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>CC74095E</crc>
+        <sha1>756D2B13F37245F99F22862A9B727BE88C5DCAF9</sha1>
+    </ines>
+    <ines>
+        <file>Ninja Gaiden II - The Dark Sword of Chaos (U) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>9F60CB4B</crc>
+        <sha1>29431B7E4391B24D35257CDE2359AEEAB7121434</sha1>
+    </ines>
+    <ines>
+        <file>PCGC Tank (Battle City Chinese Hack) [T+Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>87C8DC37</crc>
+        <sha1>2D42D38B34D1A79D14C7CF2D49984D7D5478A208</sha1>
+    </ines>
+    <ines>
+        <file>RoboCop (U) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>8DC9BA0E</crc>
+        <sha1>EFC23F9A50DE91561E2E231DB17187B2CFB674FC</sha1>
+    </ines>
+    <ines>
+        <file>RoboCop 2 (U) (PRG1) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>785570F2</crc>
+        <sha1>7F1A818E1985AD35ACFE7E53145C68CCEB390B2D</sha1>
+    </ines>
+    <ines>
+        <file>RoboCop 3 (U) [!p]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>7BF1E854</crc>
+        <sha1>0009A62AB669EA2BCC0C119D994E7F333D2B400A</sha1>
+    </ines>
+    <ines>
+        <file>Romman Love (Battle City Hack) [T+Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>584A2C66</crc>
+        <sha1>A239BB44CC710CD003230933BD12EFB8E27307AC</sha1>
+    </ines>
+    <ines>
+        <file>Super Contra 7 (Unl) [t3] [T-Rus] by Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>4</mapper>
+        <crc>51BB1A09</crc>
+        <sha1>2447A54A91859A10AA72A6CB3684D22036E377F1</sha1>
+    </ines>
+    <ines>
+        <file>TaleSpin (U) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>12357915</crc>
+        <sha1>F0AB9B1C59FD0C57632C09618B2A00256573EA87</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles - Tournament Fighters_Lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>B7D2FCE2</crc>
+        <sha1>504CEDB4F2165AD207004147B977A0679238D419</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles (U) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>E87B2FBA</crc>
+        <sha1>21DB29B8810081E98A67445B164D9ACC1DAA9814</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles II - The Arcade Game (U) [!]-lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>C4950898</crc>
+        <sha1>6DEB48ED558DC3816EDA2D5D9B1216F8604533A6</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles III - The Manhattan Project_lomax.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>C05AA4C8</crc>
+        <sha1>89841BD14FA54C865E006AE0A710269BE2D56888</sha1>
+    </ines>
+    <ines>
+        <file>Terminator, The (U) [!p]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>6DB67F80</crc>
+        <sha1>C64DBB27A9C9669E40852263D98879AACBB3F204</sha1>
+    </ines>
+    <ines>
+        <file>Tom &amp; Jerry (and Tuffy) (U) [!]_lomax edition.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>5494D416</crc>
+        <sha1>C52D3A5FF57081DD5C64916266AD45872A222EA7</sha1>
+    </ines>
+    <ines>
+        <file>Утиные истории 2 Без Винта.nes</file>
+        <dir>D:\Games\Dendy (NES)\Games.Hacked\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>884A780A</crc>
+        <sha1>9AAE99B9A730335F7E89BD190ED974F398340ADA</sha1>
+    </ines>
+    <ines>
+        <file>100-in-1 Contra Function 16.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>1024</prg>
+        <wram>8</wram>
+        <vram>8</vram>
+        <mapper>15</mapper>
+        <crc>1B219E01</crc>
+        <sha1>6B519F41BBD1984739B6A226140C0F0871889C2F</sha1>
+    </ines>
+    <ines>
+        <file>1942 (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>171251E3</crc>
+        <sha1>7F57EACE7CADA7C36412A50F2299231B304527A8</sha1>
+    </ines>
+    <ines>
+        <file>1943 - The Battle of Midway (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>12C6D5C7</crc>
+        <sha1>1E76A86398F069DA43B25351EF419BE664D630C5</sha1>
+    </ines>
+    <ines>
+        <file>Aladdin 1 E.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>41D32FD7</crc>
+        <sha1>F1FFBECBC99558EEF25E8C6DB1EEB9C408E2F33E</sha1>
+    </ines>
+    <ines>
+        <file>Aladdin 1 U.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>7638BDB3</crc>
+        <sha1>EC721D7D3ABCB4DE47DFC89456A82D02DEDC7D30</sha1>
+    </ines>
+    <ines>
+        <file>Aladdin 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>59114E78</crc>
+        <sha1>E6EF147025AC53D1566E5E8A33700B2C5F6C1EFB</sha1>
+    </ines>
+    <ines>
+        <file>Aladdin 3.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>41</mapper>
+        <crc>C9EE15A7</crc>
+        <sha1>8F4EBDE3E2439FBD33AEE788A318AAD6712F883E</sha1>
+    </ines>
+    <ines>
+        <file>Alien 3.NES</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>C527C297</crc>
+        <sha1>6E14D69218F890D5B4806E19C599329F1B5079A1</sha1>
+    </ines>
+    <ines>
+        <file>Antarctic Adventure (J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>163ECCAE</crc>
+        <sha1>C44EE9A2670DAD440E5D8A47493FDCC8F05CE2A4</sha1>
+    </ines>
+    <ines>
+        <file>Asterix (E).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>ED77B453</crc>
+        <sha1>7B0B8D19BD56AA255501852136828300EE2D2457</sha1>
+    </ines>
+    <ines>
+        <file>Balda (R) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>61721163</crc>
+        <sha1>0292FDF6D60EA9C7B60E76D7F4EFAFFE8BD91D30</sha1>
+    </ines>
+    <ines>
+        <file>Battle City.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>D6DA2A1E</crc>
+        <sha1>DF422A483AF41E886A0129A8382CE081734F0223</sha1>
+    </ines>
+    <ines>
+        <file>Battle Tank.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>90D68A43</crc>
+        <sha1>7698CE7AE3B83F12518169ECFEEE4D76D643C842</sha1>
+    </ines>
+    <ines>
+        <file>BattleToads.NES</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>279710DC</crc>
+        <sha1>D85C9FF489672534FBF61A15F8FA56FFF489A34B</sha1>
+    </ines>
+    <ines>
+        <file>Battletoads and Double Dragon.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>23D7D48F</crc>
+        <sha1>6A6579963319CC14DA457C963FA43741BFBF645C</sha1>
+    </ines>
+    <ines>
+        <file>Best of the Best - Championship Karate (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>A6A725B8</crc>
+        <sha1>3B01A043EB47AA2503A28A861EB686F1505E9A76</sha1>
+    </ines>
+    <ines>
+        <file>Blaster Master (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>3F0FD764</crc>
+        <sha1>98845D5716525E68EF7417E6FB55BE30A4C7130D</sha1>
+    </ines>
+    <ines>
+        <file>Bomber King.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>BD9D0E85</crc>
+        <sha1>F82654BE44E4B01B3F9627D81232A086B1CF7599</sha1>
+    </ines>
+    <ines>
+        <file>Bomberman.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>3F45C309</crc>
+        <sha1>AA70C371FDD39AB0B49C3AAA71B5477E9FA45468</sha1>
+    </ines>
+    <ines>
+        <file>Bomberman 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>A0DDF884</crc>
+        <sha1>3E5212E24F16FBF7D59C8E9888749F88665A90FD</sha1>
+    </ines>
+    <ines>
+        <file>Bomberman Collection.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>3F45C309</crc>
+        <sha1>AA70C371FDD39AB0B49C3AAA71B5477E9FA45468</sha1>
+    </ines>
+    <ines>
+        <file>Boogerman.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>91D39B22</crc>
+        <sha1>DE5BDC387AFE74B0C4E41869B30A694EE5A3C3D1</sha1>
+    </ines>
+    <ines>
+        <file>Bucky O&apos;Hare (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E19EE99C</crc>
+        <sha1>9B51A9D91380D10DF03DA29788809F6024ECE485</sha1>
+    </ines>
+    <ines>
+        <file>Cabal (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>BDF046EF</crc>
+        <sha1>6FC96949C5283911969F6F873B8ED52752AADABA</sha1>
+    </ines>
+    <ines>
+        <file>Captain America and The Avengers (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>58C7DDAF</crc>
+        <sha1>A13AA4971F1421E93312FA3574FCBE178B87977E</sha1>
+    </ines>
+    <ines>
+        <file>Castelian (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>0AE6C9E2</crc>
+        <sha1>847D56E43754E402666A91188520737094E9ECFA</sha1>
+    </ines>
+    <ines>
+        <file>Castlevania 1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>A93527E2</crc>
+        <sha1>0EA29D38B0D1740234DED685546D5ED9E1B3699E</sha1>
+    </ines>
+    <ines>
+        <file>Castlevania 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>D6F7383E</crc>
+        <sha1>D3F455A15A5B21EA663A1E48AF352E55818FE89D</sha1>
+    </ines>
+    <ines>
+        <file>Castlevania 3.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>5</mapper>
+        <crc>671F23A8</crc>
+        <sha1>B0E798176E49A8BA3F533FE75EA4149BF41D77E3</sha1>
+    </ines>
+    <ines>
+        <file>Championship Lode Runner.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <mapper>3</mapper>
+        <crc>ADB5D0B3</crc>
+        <sha1>FB9B7989B802C3D2748870775256DA0A5E4ABF44</sha1>
+    </ines>
+    <ines>
+        <file>Championship Pool.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>CDC641FC</crc>
+        <sha1>3F461C8A3056DFB168E3CD6067A36605F3B1FAE8</sha1>
+    </ines>
+    <ines>
+        <file>Championship Rally.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>C076D66F</crc>
+        <sha1>017A692EF7D140565CC0827629BB16FA82E6FD7C</sha1>
+    </ines>
+    <ines>
+        <file>Chessmaster.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>32</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>D7F6320C</crc>
+        <sha1>010489462CEB0756DFB06D418F26445DDA9C002B</sha1>
+    </ines>
+    <ines>
+        <file>Chip&apos;n&apos;Dale Rescue Rangers.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>84F7FC31</crc>
+        <sha1>633ADA8089578C04CCF18F8EBD4B02051AB43847</sha1>
+    </ines>
+    <ines>
+        <file>Chip&apos;n&apos;Dale Rescue Rangers (PC10).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>8BF29CB6</crc>
+        <sha1>BD21B1C548F183A136B1357A283E46F73702D08D</sha1>
+    </ines>
+    <ines>
+        <file>Chip&apos;n&apos;Dale Rescue Rangers 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>FC5783A7</crc>
+        <sha1>62298489FAF7A482AF33BE307631D7FF5D9003F6</sha1>
+    </ines>
+    <ines>
+        <file>Circus Charlie (J) [a1].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>2ED6D7CB</crc>
+        <sha1>E98B3AA42FAC51C848F79DD797D676B38730DFE8</sha1>
+    </ines>
+    <ines>
+        <file>City Connection (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>AE8666B4</crc>
+        <sha1>D77B46806992AE91681791747EC812938A6A185E</sha1>
+    </ines>
+    <ines>
+        <file>Contra.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>F6035030</crc>
+        <sha1>979494E7869AC7AB4815FDBD1DC99F893F713FBF</sha1>
+    </ines>
+    <unif>
+        <file>Contra Fighter (Unl) (U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <name>Contra Fighter</name>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <mapper>238</mapper>
+        <crc>BDBE3C96</crc>
+        <sha1>E79FC613112CC5AB0FC8B1150E182670FB042F4A</sha1>
+    </unif>
+    <ines>
+        <file>Contra Force.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>B5E38091</crc>
+        <sha1>7A2CD9F9306955B74ABCAE7F43916B105FBF3A02</sha1>
+    </ines>
+    <ines>
+        <file>Contra Force (Rus).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E10B173E</crc>
+        <sha1>4DDD80969B4D03CCF04C07B51D8D3E6556B97ABF</sha1>
+    </ines>
+    <ines>
+        <file>Contra Gryzor (J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <mapper>23</mapper>
+        <crc>B27B8CF4</crc>
+        <sha1>BE9DD65BE8DB897978DD34533DD3A037784A8EE9</sha1>
+    </ines>
+    <ines>
+        <file>Contra Probotector (E).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>B13F00D4</crc>
+        <sha1>999ACA2DFDBDCC164DDAB12282290247F4CE21E1</sha1>
+    </ines>
+    <ines>
+        <file>Contra Probotector II (E).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>37A5EB52</crc>
+        <sha1>DA72F34057A1C8FEA703A3D68DA8F53D78A75EF5</sha1>
+    </ines>
+    <ines>
+        <file>Contra Spirits (Unl).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <mapper>90</mapper>
+        <crc>814E984A</crc>
+        <sha1>6DDA48AA919874783A01D120E064CCB22C19D695</sha1>
+    </ines>
+    <ines>
+        <file>Contra Super.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>120</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>83C165E8</crc>
+        <sha1>21DDB5E11D39C49515A31EBDE4BF4FD3955D57F5</sha1>
+    </ines>
+    <ines>
+        <file>Contra Super (Rus).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>09389577</crc>
+        <sha1>A00133A8E4DCBB79F161E469C08017CC2DB258DD</sha1>
+    </ines>
+    <ines>
+        <file>Contra Super 7 (Unl).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>43DB0D06</crc>
+        <sha1>FA15DC082674364E4CD5CF9EF94700EC4661AAC3</sha1>
+    </ines>
+    <ines>
+        <file>Contra Super Gryzor (J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>B1250D0C</crc>
+        <sha1>C7361A39716DCD0364D0AD518D5D5EBD4BA56F87</sha1>
+    </ines>
+    <ines>
+        <file>Contra Super II (Unl).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>A7C6BD80</crc>
+        <sha1>F8851C2F50A4E5AD73E6A2F09C309626233167BF</sha1>
+    </ines>
+    <ines>
+        <file>Contra Super X (Unl).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>A462B119</crc>
+        <sha1>9824647DEDB23BF939BD1460F58BA7CF4B2ED1EF</sha1>
+    </ines>
+    <ines>
+        <file>Contra U.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>F6035030</crc>
+        <sha1>979494E7869AC7AB4815FDBD1DC99F893F713FBF</sha1>
+    </ines>
+    <ines>
+        <file>Cyberball.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>88338ED5</crc>
+        <sha1>9AD5B208ECCDC28BFD103E8CFA023A997EC72A27</sha1>
+    </ines>
+    <ines>
+        <file>Darkwing Duck.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>66F6A39E</crc>
+        <sha1>4BE8094AF62FB61CA492D8B1DF800FDDB8F92F0C</sha1>
+    </ines>
+    <ines>
+        <file>Donald Duck.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>E66BDDCF</crc>
+        <sha1>259C8F859F63301F5C4D1D6E6C4F3222D467AB49</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>8A640AEF</crc>
+        <sha1>5BF8F3D23F0819E23B9BCC9F1DFAFD3B6106C4F2</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon 1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>A1A0C13F</crc>
+        <sha1>5353CDBD255E908B16382C6669F3A9D76138B749</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>8A640AEF</crc>
+        <sha1>5BF8F3D23F0819E23B9BCC9F1DFAFD3B6106C4F2</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon 3.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>50FD0CC6</crc>
+        <sha1>15A70240CB7D6D029E67E6AA6C66F5987DA68101</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon 3a.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E9D352EB</crc>
+        <sha1>9D311C82B54C132EC63FDBAA933B593D75CCE310</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon 4.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>12B57E82</crc>
+        <sha1>867CCB62B43C85B796687BEC339672119722F0C7</sha1>
+    </ines>
+    <ines>
+        <file>Dr Mario.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>9735D267</crc>
+        <sha1>A0939930D9655E7FD2C3FAE69D558614F2D27480</sha1>
+    </ines>
+    <ines>
+        <file>Duck.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <mapper>3</mapper>
+        <crc>543C6EDE</crc>
+        <sha1>BF03DA873D76A87AB669688D0C47D7554C08C176</sha1>
+    </ines>
+    <ines>
+        <file>Duck Hunt (World).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>24598791</crc>
+        <sha1>FB853A77E02F1CEAE933DFF762CD0C2F6E0B2E27</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales (E).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>D029F841</crc>
+        <sha1>1E4796EE09739C45F7FED2A9BBD1CEB132C4FF7F</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales 1.NES</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>73C7FCF4</crc>
+        <sha1>F85DA3A5A252567F3905B112830B0F1C297CF34C</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>73C7FCF4</crc>
+        <sha1>F85DA3A5A252567F3905B112830B0F1C297CF34C</sha1>
+    </ines>
+    <unif>
+        <file>EarthWorm Jim 2 (Unl) [U][!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <name>Earth Worm Jim 2 (Pirate Original)</name>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>123</mapper>
+        <crc>CC22378A</crc>
+        <sha1>6ABF4E605846399C866CA5809F8521B0858B1476</sha1>
+    </unif>
+    <ines>
+        <file>EarthWorm Jim 3 (Unl) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>B9AA4EEB</crc>
+        <sha1>593BCE6743E1743897BA1837F9738E14309563B5</sha1>
+    </ines>
+    <ines>
+        <file>Eliminator Boat Duel (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>059E0CDF</crc>
+        <sha1>A7324E0A32800734AF4F02B0E85AC063C3736A31</sha1>
+    </ines>
+    <ines>
+        <file>Excitebike (GBA e-Reader) (U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>D1FC0ED6</crc>
+        <sha1>EBC84FEE38356BBB4A20FD0116B310FDDD8CF21B</sha1>
+    </ines>
+    <ines>
+        <file>F-1 Race.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>E0604F76</crc>
+        <sha1>D6D82CF48D97BD5702F17B3DDF6D06392A31A7E3</sha1>
+    </ines>
+    <ines>
+        <file>F-1 Sensation.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>4</mapper>
+        <crc>256392F1</crc>
+        <sha1>3251A05EDC09C57CF15F38CB568408A559871405</sha1>
+    </ines>
+    <ines>
+        <file>F-15 City War.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>79</mapper>
+        <crc>D4A76B07</crc>
+        <sha1>D70C896C317B6F07D01D55CB3D56D6B24A7D98F7</sha1>
+    </ines>
+    <ines>
+        <file>F-15 Strike Eagle.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>0BCAA4D7</crc>
+        <sha1>C08BD7F4E786BCB1F6FE31B1BC4815BA83C69E23</sha1>
+    </ines>
+    <ines>
+        <file>F-117a Stealth Fighter.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>4</mapper>
+        <crc>0A7E62D4</crc>
+        <sha1>C8909540BC7C1EF643EADC8AB9477F5532E52945</sha1>
+    </ines>
+    <ines>
+        <file>Fantastic Adventures of Dizzy, The (Unl) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>71</mapper>
+        <crc>38FBCC85</crc>
+        <sha1>90196DBFC5337B56106B33891C5FA4B2267F3732</sha1>
+    </ines>
+    <ines>
+        <file>Felix the Cat.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>2CAAE01C</crc>
+        <sha1>CC03A83C6AD9BBB858EE5FF04E9E7B2362EEA06A</sha1>
+    </ines>
+    <ines>
+        <file>Ferrari Grand Prix Challenge.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>CE77B4BE</crc>
+        <sha1>AD59864A6ED64F4B4DB36D2EE7D4C70C5A409C5A</sha1>
+    </ines>
+    <ines>
+        <file>Final Lap (J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>19</mapper>
+        <crc>5746A461</crc>
+        <sha1>0BD17A939A1382BD1F6BE776708B5F375E987C4A</sha1>
+    </ines>
+    <ines>
+        <file>Flintstones, The - The Rescue of Dino &amp; Hoppy (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>2FE20D79</crc>
+        <sha1>AD99C84C67659AF576A57CB500B8DEE82ADED7DD</sha1>
+    </ines>
+    <ines>
+        <file>Flintstones, The - The Surprise at Dinosaur Peak! (U) [!p].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>DAB84A9C</crc>
+        <sha1>16685A7416E76ECDD79E6F492437A9AEDF989ED8</sha1>
+    </ines>
+    <ines>
+        <file>Formula One - Built To Win.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>1</mapper>
+        <crc>5A8B4DA8</crc>
+        <sha1>C3FB75748E0E3D6C4CCE37DBB6BB10573CE117FD</sha1>
+    </ines>
+    <ines>
+        <file>Galaxian.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>037F3281</crc>
+        <sha1>5B00F5EF1EEEFCB543ABF046B4A4249F69BCDC11</sha1>
+    </ines>
+    <ines>
+        <file>George Foreman&apos;s KO Boxing (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>AF05F37E</crc>
+        <sha1>8A20080A4F8EF1268C1555913510733055031C5E</sha1>
+    </ines>
+    <ines>
+        <file>Ghostbusters.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>6A154B68</crc>
+        <sha1>F411C7903452C9470C8BF73FED334C485F14A8E4</sha1>
+    </ines>
+    <ines>
+        <file>Ghostbusters 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>2AE97660</crc>
+        <sha1>2D48241F5453DDA96FEC840F9E9501979B07B73C</sha1>
+    </ines>
+    <ines>
+        <file>Goal! (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>84148F73</crc>
+        <sha1>ABB50CDC61112A03FC4089E30C49F82C8FDDA790</sha1>
+    </ines>
+    <ines>
+        <file>Gotcha! - The Sport! (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>4E959173</crc>
+        <sha1>FAAED4082BCF7424C040847DAA3A44C1462B1542</sha1>
+    </ines>
+    <ines>
+        <file>Guerrilla War (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>6DECD886</crc>
+        <sha1>93AC61B69B9F21BDF0C662C1A0832A17A3E6BDEF</sha1>
+    </ines>
+    <ines>
+        <file>Gun.Smoke (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>A8784932</crc>
+        <sha1>0B66FE6D5F724F4F66F1E1FE76A65A84AC876C7E</sha1>
+    </ines>
+    <ines>
+        <file>Heavy Barrel (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>34EAB034</crc>
+        <sha1>3065EF157AB5F34FA05022261D7BF6EF79DAD5C9</sha1>
+    </ines>
+    <ines>
+        <file>Hogan&apos;s Alley (W) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>FF24D794</crc>
+        <sha1>C200D0BF8914B2116720BF8A29B5521C3CEFA36A</sha1>
+    </ines>
+    <ines>
+        <file>Home Alone (U) (REVA) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>F31D36A3</crc>
+        <sha1>00147962462C44354735861D0258D72314635458</sha1>
+    </ines>
+    <ines>
+        <file>Home Alone 2 - Lost in New York (U) [b3].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>0305AE3B</crc>
+        <sha1>F9A3AFD8964C6184A9F7E54C2FEBD573C030B701</sha1>
+    </ines>
+    <ines>
+        <file>Hudson&apos;s Adventure Island (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>F8A713BE</crc>
+        <sha1>E8EA2DEB2D65FC64F0DC038A2C95CA6CE8CA31B9</sha1>
+    </ines>
+    <ines>
+        <file>Hudson&apos;s Adventure Island II (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>771C8855</crc>
+        <sha1>D30741F41F76B34C08032FC61579DC5963F1443D</sha1>
+    </ines>
+    <ines>
+        <file>Hudson&apos;s Adventure Island III (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>BFBFD25D</crc>
+        <sha1>F77EB86932844A92834EF12C059A3F5B815DAC07</sha1>
+    </ines>
+    <ines>
+        <file>Hyper Sports (J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>915A53A7</crc>
+        <sha1>32B6BE4598DBCE05559BDE7675D5238638FAF9BE</sha1>
+    </ines>
+    <ines>
+        <file>Ice Climber.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>C8F6A21A</crc>
+        <sha1>68A4CBEB5A7B08649D973E93BBACB7FADE7A65C3</sha1>
+    </ines>
+    <ines>
+        <file>Ice Climber VS.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <wram>8</wram>
+        <vram>4</vram>
+        <mapper>99</mapper>
+        <crc>EF7AF338</crc>
+        <sha1>9F1943AADE4233285589CEA5BDC96B5380D49337</sha1>
+    </ines>
+    <ines>
+        <file>Ice Climber VS (Player_1_Mode).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <wram>8</wram>
+        <vram>4</vram>
+        <mapper>99</mapper>
+        <crc>CBBEFD1F</crc>
+        <sha1>77959F436F2A0D18249A44133FC4068B61029283</sha1>
+    </ines>
+    <ines>
+        <file>Ice Climber VS (Player_2_Mode).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <wram>8</wram>
+        <vram>4</vram>
+        <mapper>99</mapper>
+        <crc>32CD7DE2</crc>
+        <sha1>200E5B57CE68676E5B5159A551EBBE8EBFBA063F</sha1>
+    </ines>
+    <ines>
+        <file>Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou (J) [T-Eng_TransBRC].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E23A4362</crc>
+        <sha1>CF69BCBF56FD28DF72370510F9A36AEB6721D483</sha1>
+    </ines>
+    <ines>
+        <file>Iron Tank (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>B14EA4D2</crc>
+        <sha1>194868F5762204A50F2F0B699F81121C2CB5CE43</sha1>
+    </ines>
+    <ines>
+        <file>Jackal (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>1D5B03A5</crc>
+        <sha1>813E6A8BC0A502BB393F8729B1BC19836D5421A5</sha1>
+    </ines>
+    <ines>
+        <file>Jungle Book.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>7DA77F11</crc>
+        <sha1>A3C8FA1895CBC5CA28D2D45DF60DCBD31D07225A</sha1>
+    </ines>
+    <ines>
+        <file>Jurassic Park.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>3B7F5B3B</crc>
+        <sha1>57F755C6A10C6681761070B0350DA72432A534E9</sha1>
+    </ines>
+    <ines>
+        <file>Karateka.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <mapper>3</mapper>
+        <crc>8BA75848</crc>
+        <sha1>9D6EEEF0CAD251F1CCDDB6078BB7D0CBE56B9231</sha1>
+    </ines>
+    <ines>
+        <file>Kirby&apos;s Adventure (U) (PRG0) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>512</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>4</mapper>
+        <crc>D7794AFC</crc>
+        <sha1>32473799F96406D73AA37D5CF66E0E27F1F339DA</sha1>
+    </ines>
+    <ines>
+        <file>Konami World.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <wram>8</wram>
+        <vram>32</vram>
+        <mapper>6</mapper>
+        <crc>4A12A762</crc>
+        <sha1>C49F3A7B0965D37BF3CD4E1212F5FF25364DD10D</sha1>
+    </ines>
+    <ines>
+        <file>Konami World 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <mapper>21</mapper>
+        <crc>8B03F74D</crc>
+        <sha1>2B1C7C4871FFE07639C75C1861AE8CA0F7638C60</sha1>
+    </ines>
+    <ines>
+        <file>Kung-Fu.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>D5C64257</crc>
+        <sha1>24A25F9DC3227687239FCA9E7BBB1F1B7664D6DD</sha1>
+    </ines>
+    <ines>
+        <file>Kung-Fu Heroes.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>8B957B50</crc>
+        <sha1>D9E376258464F5CF01916DEFB6F06BA6544CB5F5</sha1>
+    </ines>
+    <ines>
+        <file>Kunio Kun no Nekketsu Soccer League (J) [T+Eng1.2_PentarouZero].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>DE8C17DC</crc>
+        <sha1>7235206404FF6182F86E84E8B5CFED24F04C5D88</sha1>
+    </ines>
+    <ines>
+        <file>Kyatto Ninja Teyandee (J) [T+Eng.10_Vertigo].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>1356F6A6</crc>
+        <sha1>FA82974BB2FB0BC113BCE08DE03CCE777140E5E4</sha1>
+    </ines>
+    <ines>
+        <file>Legend of Kage, The (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <mapper>3</mapper>
+        <crc>BBED6E6E</crc>
+        <sha1>F293929C23A30B0D1B96850F807A85095604A10D</sha1>
+    </ines>
+    <ines>
+        <file>Lemmings.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>A69F29FA</crc>
+        <sha1>8C13584F22D1FDE5711DB2C59940EB37E6FC1ECE</sha1>
+    </ines>
+    <ines>
+        <file>Lethal Weapon (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>7077B075</crc>
+        <sha1>AEB92FCFE3E757C3D52C99FAB6ECA5A50D59F174</sha1>
+    </ines>
+    <ines>
+        <file>Lion King.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>89984244</crc>
+        <sha1>C550AF552779C712F94BFC776899FD76A64B3CA5</sha1>
+    </ines>
+    <ines>
+        <file>Lion King (U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <mapper>114</mapper>
+        <crc>6A03D3F3</crc>
+        <sha1>6BC97B7459DB034D5DD5B5828678CC4CAB073663</sha1>
+    </ines>
+    <ines>
+        <file>Lion King III, The - Simon and Pumba (Unl) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>513EB779</crc>
+        <sha1>E25DD3EA07926DB514766BDC1E3895700CCA4AD8</sha1>
+    </ines>
+    <ines>
+        <file>Little Mermaid.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>3BE244EF</crc>
+        <sha1>EA07509F4BDD45603F98126E66BF9F16291E7B4C</sha1>
+    </ines>
+    <ines>
+        <file>Little Ninja Brothers.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>3BB31E38</crc>
+        <sha1>E85469D8FE0D4C058EE6EF3EED28E2D131EC0C22</sha1>
+    </ines>
+    <ines>
+        <file>Little Samson (U) [!p].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>B5E392E2</crc>
+        <sha1>5DA05FDF6AC67B1DFEE20E8DEF46AFF2A88F1578</sha1>
+    </ines>
+    <ines>
+        <file>Lode Runner.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>AF5676DE</crc>
+        <sha1>D456FBFFDF41BBBA327D16CD1D776A6BDEDDB586</sha1>
+    </ines>
+    <ines>
+        <file>M&amp;M Heroes (Unl).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>4</mapper>
+        <crc>E905A251</crc>
+        <sha1>7058F653A41F08962D5EF1A65A471065EB92AC3D</sha1>
+    </ines>
+    <ines>
+        <file>Mad Max (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>026E41C5</crc>
+        <sha1>998A7CD3140978FAD0E827C8543092CA705C1FC7</sha1>
+    </ines>
+    <ines>
+        <file>Mario&apos;s Time Machine!.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>55DB7E2A</crc>
+        <sha1>FD51F5BE5634724DBBB434A960EC2FA5A6BF5C4C</sha1>
+    </ines>
+    <ines>
+        <file>Mario &amp; Yoshi.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>32</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>836685C4</crc>
+        <sha1>C3BE7FFA6FCA119B7A13160F6676CCC5FE9621B3</sha1>
+    </ines>
+    <ines>
+        <file>Mario 7-in-1 (Mapper_04).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>B5A75244</crc>
+        <sha1>F914FAC311BB93630A67B0F1429269C917E7D6A0</sha1>
+    </ines>
+    <ines>
+        <file>Mario 7-in-1 (Mapper_52).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>1024</prg>
+        <chr>1024</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>52</mapper>
+        <crc>68FE207F</crc>
+        <sha1>7F73FE27B4B6F49099F1BB4170ABE04C394991CD</sha1>
+    </ines>
+    <ines>
+        <file>Mario 16.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>744A0721</crc>
+        <sha1>28C9FE8DDD5F80242A5FD024483350154AA54EC6</sha1>
+    </ines>
+    <ines>
+        <file>Mario Bros.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>C4C3949A</crc>
+        <sha1>BF43D93D36D7198E65B9B7C4E41DB108FE43FCBA</sha1>
+    </ines>
+    <ines>
+        <file>Mario Bros. (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>C4C3949A</crc>
+        <sha1>BF43D93D36D7198E65B9B7C4E41DB108FE43FCBA</sha1>
+    </ines>
+    <ines>
+        <file>Mario Family 10-in-1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>512</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>BDE47949</crc>
+        <sha1>508FF75DA6AF522EE70D2FF82CC3E030CC5F7304</sha1>
+    </ines>
+    <ines>
+        <file>Master Fighter II (Unl) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <mapper>189</mapper>
+        <crc>79D7624A</crc>
+        <sha1>F1909844F201FD8A31A896352F6F890DD865D061</sha1>
+    </ines>
+    <ines>
+        <file>Mega Man.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>6EE4BB0A</crc>
+        <sha1>6047E52929DFE8ED4708D325766CCB8D3D583C7D</sha1>
+    </ines>
+    <ines>
+        <file>Mega Man 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <wram>8</wram>
+        <vram>8</vram>
+        <mapper>1</mapper>
+        <crc>0FCFC04D</crc>
+        <sha1>2EC08F9341003DED125458DF8697CA5EF09D2209</sha1>
+    </ines>
+    <ines>
+        <file>Mega Man 3.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>603AAA57</crc>
+        <sha1>6780B3FCC547C013EE45AFAC6BB30C6FC6D8B46E</sha1>
+    </ines>
+    <ines>
+        <file>Mega Man 4.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>512</prg>
+        <wram>8</wram>
+        <vram>8</vram>
+        <mapper>4</mapper>
+        <crc>2BC67AA8</crc>
+        <sha1>673A888C468ABE33FB0B3F063C6837DD21D5D32B</sha1>
+    </ines>
+    <ines>
+        <file>Mega Man 5.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>3EDCF7E8</crc>
+        <sha1>36842491BB513C80BEB9F2FB2AA30EDAA1121CA4</sha1>
+    </ines>
+    <ines>
+        <file>Mega Man 6.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>512</prg>
+        <wram>8</wram>
+        <vram>8</vram>
+        <mapper>4</mapper>
+        <crc>988798A8</crc>
+        <sha1>26D33987CFF21C651FE3D638F4A739C33A18C240</sha1>
+    </ines>
+    <ines>
+        <file>Metal Gear (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>817431EC</crc>
+        <sha1>2783BEF3CC207E9BF57A65EEA5AB9B68E2214AF0</sha1>
+    </ines>
+    <ines>
+        <file>Metal Mech - Man &amp; Machine (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>05378607</crc>
+        <sha1>2A371E9617262941B749C6C1198FB0CDB987B708</sha1>
+    </ines>
+    <ines>
+        <file>Mickey Mouse.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>7C6A3D51</crc>
+        <sha1>1DBB1FFB39DDE15A006667331B98D52F1020B21F</sha1>
+    </ines>
+    <ines>
+        <file>Mickey3 Mouse 3.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>57D162F1</crc>
+        <sha1>1153999DB45A7FAEDEFEBE9DA8C5448084B8AE23</sha1>
+    </ines>
+    <ines>
+        <file>Micro Machines.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>71</mapper>
+        <crc>24BA12DD</crc>
+        <sha1>C7FD43041FC139DC8440C95C28A0115DC79E2691</sha1>
+    </ines>
+    <ines>
+        <file>Mig-29.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>71</mapper>
+        <crc>E62E3382</crc>
+        <sha1>B74802F946D99A83E8E223B6F987E6482A8EC41D</sha1>
+    </ines>
+    <ines>
+        <file>Mighty Final Fight (U) [!p].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>3F78037C</crc>
+        <sha1>CC5BAC121D94B23D7581F4F443DD42F6CFE8EB67</sha1>
+    </ines>
+    <ines>
+        <file>Mission - Impossible (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E3C5BB3D</crc>
+        <sha1>85E43A81DBBB391122DF9FD39DA10F28F9329C34</sha1>
+    </ines>
+    <ines>
+        <file>Monopoly.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>9747AC09</crc>
+        <sha1>67FD2B7B9B72B8635515BB37926D77970720E3D6</sha1>
+    </ines>
+    <ines>
+        <file>Monster Truck Rally (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>2F698C4D</crc>
+        <sha1>3C0FF6F5760DE40C6701B7D07C1C6DFC6B022042</sha1>
+    </ines>
+    <ines>
+        <file>Mortal Kombat 3.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>5A9664D0</crc>
+        <sha1>232E54DA6FAF7BAC4A29769FA0379570D83EC32E</sha1>
+    </ines>
+    <ines>
+        <file>Mortal Kombat 3 - Special_56_Peoples.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>10</mapper>
+        <crc>7E35A355</crc>
+        <sha1>7AF153335EE61301A4DEA0343735ADF30157EA59</sha1>
+    </ines>
+    <ines>
+        <file>Mortal Kombat 4.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>A39311CA</crc>
+        <sha1>F2020072550518768D7FA46DBC7C2B987B9F75A5</sha1>
+    </ines>
+    <ines>
+        <file>Mortal Kombat Trilogy.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>51CEAC29</crc>
+        <sha1>41CADABCE79D19E7C9A94CFAF8A5E89DB2102E6B</sha1>
+    </ines>
+    <ines>
+        <file>Mortal Kombat V1996_Turbo_30_Peoples_[!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>27F3A202</crc>
+        <sha1>11FDD6ACE7BB0FD549D8280E3C45C9B6F7237137</sha1>
+    </ines>
+    <ines>
+        <file>NARC (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>0537322A</crc>
+        <sha1>40F7287B34A8B9A5729685A58C65DF3078664DB8</sha1>
+    </ines>
+    <ines>
+        <file>New Ghostbusters 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>F0C198FF</crc>
+        <sha1>93E02D55CC783454A4CF44457B71F55B8EE996E9</sha1>
+    </ines>
+    <ines>
+        <file>Nigel Mansell&apos;s World Championship Challenge (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>4751A751</crc>
+        <sha1>D32CCAFB8B336BFCB0666DBD60B1364CF226C3FC</sha1>
+    </ines>
+    <ines>
+        <file>Ninja Crusaders (U) [!p].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <wram>8</wram>
+        <vram>8</vram>
+        <mapper>4</mapper>
+        <crc>3D1C4894</crc>
+        <sha1>E664F304F9C5EB3899833550E4026003D28738DF</sha1>
+    </ines>
+    <ines>
+        <file>Ninja Gaiden.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>7C4A72D8</crc>
+        <sha1>15F245161179AB1959B7DC20E82ADD024D23AA3D</sha1>
+    </ines>
+    <ines>
+        <file>Ninja Gaiden 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>B780521C</crc>
+        <sha1>951A19474A1D9C2984F3D966FBC41C0F0360105E</sha1>
+    </ines>
+    <ines>
+        <file>Ninja Gaiden 3.NES</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>902E3168</crc>
+        <sha1>503B64A28E0EAD2EE7312A46A4646B334A899846</sha1>
+    </ines>
+    <ines>
+        <file>Nuts &amp; Milk (J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>739A1027</crc>
+        <sha1>BD815E9731C7685EE8820434F13A3242C091F285</sha1>
+    </ines>
+    <ines>
+        <file>P.O.W. - Prisoners of War (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>75255F88</crc>
+        <sha1>B2A0B2525BA713D1C7C7130992917F62E18375FB</sha1>
+    </ines>
+    <ines>
+        <file>Pac-Man.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>E4E3D2ED</crc>
+        <sha1>D7EE5DF533B0C33128F0C0AFD05E8EDD42C0B1D7</sha1>
+    </ines>
+    <ines>
+        <file>Pac-Man (Namco).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>9E4E9CC2</crc>
+        <sha1>92C3361B9E3B28A51FD30E7845C988A6D576EE65</sha1>
+    </ines>
+    <ines>
+        <file>Panic Restaurant (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>435AEEC6</crc>
+        <sha1>FA7DCADBFD76DE0320326EF3EE900D55020925E9</sha1>
+    </ines>
+    <ines>
+        <file>Pinball.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>D6AD4E9D</crc>
+        <sha1>E6DBEAB6B373B44A2FABF778BB394EAC3A636F7A</sha1>
+    </ines>
+    <ines>
+        <file>Pinball_(VS).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <wram>8</wram>
+        <vram>4</vram>
+        <mapper>99</mapper>
+        <crc>CA3E9B1A</crc>
+        <sha1>1A4EC64E576BAD64DAF320AEED0BE1B8B50D21DF</sha1>
+    </ines>
+    <ines>
+        <file>Pinball_Quest_(U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>2538D860</crc>
+        <sha1>897F017C7E5D5A19D5B72A9434FFB136D0DA6D46</sha1>
+    </ines>
+    <ines>
+        <file>Pipe Dream (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>BCE77871</crc>
+        <sha1>7AE08F6C3358B434D2782D646482FA37BC3FBE21</sha1>
+    </ines>
+    <ines>
+        <file>Popeye.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>70860FCA</crc>
+        <sha1>7CE202E72B7942E3F6030EBF220E8BBB695DE9D8</sha1>
+    </ines>
+    <ines>
+        <file>Power Blade (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>5CF536F4</crc>
+        <sha1>293FB5EEC8DA879960E2C86FD612028394E965E9</sha1>
+    </ines>
+    <ines>
+        <file>Power Blade 2 (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>D273B409</crc>
+        <sha1>7D84A12D6394A4721E40B9934D60545738973D4D</sha1>
+    </ines>
+    <ines>
+        <file>Prince Of Persia.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>70CE3771</crc>
+        <sha1>9BC0211CF659608E375AA2D29CEC1ECDE463CF29</sha1>
+    </ines>
+    <ines>
+        <file>Prince Of Persia U.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>70CE3771</crc>
+        <sha1>9BC0211CF659608E375AA2D29CEC1ECDE463CF29</sha1>
+    </ines>
+    <ines>
+        <file>Punisher, The (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>27F8D0D2</crc>
+        <sha1>0EBCD821E2888E55E0436A95AF687848CC7D82B7</sha1>
+    </ines>
+    <ines>
+        <file>Rainbow_Islands_-_The_Story_of_Bubble_Bobble_2_(E)_[!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>BE0E93C3</crc>
+        <sha1>2E92FBE8B7C3ABC901057B8D8E6A5E882D7D4E10</sha1>
+    </ines>
+    <ines>
+        <file>Rainbow_Islands_-_The_Story_of_Bubble_Bobble_2_(U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>9EA1DC76</crc>
+        <sha1>C444DF09D81B20BA54E2F0A8AA01702FFE5F5C68</sha1>
+    </ines>
+    <ines>
+        <file>River City Ransom (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E9C387EC</crc>
+        <sha1>CA794E6A2B0ECF69B2BE1753D379CCE6434C49D7</sha1>
+    </ines>
+    <ines>
+        <file>Road Fighter (J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>7EE625EB</crc>
+        <sha1>EB392F6F2CA12186697C88111105263F0D027985</sha1>
+    </ines>
+    <ines>
+        <file>Road Runner.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>64</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>B19A55DD</crc>
+        <sha1>830DED7847F0C53A7872BC8685517F2B081B3354</sha1>
+    </ines>
+    <ines>
+        <file>RoboCop (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>192D546F</crc>
+        <sha1>7DEA2FFBC0627C9616EF019088323CC77D33E485</sha1>
+    </ines>
+    <ines>
+        <file>RoboCop 2 (U) (PRG1) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>990985C0</crc>
+        <sha1>AA08F65D6333448F088D8DCE32F3895662B577DE</sha1>
+    </ines>
+    <ines>
+        <file>RoboCop 3 (U) [!p].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>96087988</crc>
+        <sha1>338F99B32B26FFBEFB5BE92AC27AC3295713FDDC</sha1>
+    </ines>
+    <ines>
+        <file>Rockin&apos; Kats (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>8927FD4C</crc>
+        <sha1>4B94BB29C17AED8467C51352382FA01F5809DC50</sha1>
+    </ines>
+    <ines>
+        <file>Rollergames (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>AA4997C1</crc>
+        <sha1>D3ABFE1ED9FE84D3AA2F0B42EE41FB12DC6AA3B2</sha1>
+    </ines>
+    <ines>
+        <file>Rush&apos;n Attack (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>DE25B90F</crc>
+        <sha1>973DE9E0D7E96C789952E34B8AB66ADB5A1A5AF6</sha1>
+    </ines>
+    <ines>
+        <file>Shatterhand (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>AA20F73D</crc>
+        <sha1>503EB23955475D105029FDD6AE082BCC14E7306A</sha1>
+    </ines>
+    <ines>
+        <file>Side Pocket.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>32</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>0EFDE8C0</crc>
+        <sha1>F385B67940F7374586B412048BC0487AAC0CC129</sha1>
+    </ines>
+    <ines>
+        <file>Side Pocket (U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>DC4DA5D4</crc>
+        <sha1>55F06203902251AF642F404FBF35568A66EE02E4</sha1>
+    </ines>
+    <ines>
+        <file>Sky Destroyer (J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>E47E9FA7</crc>
+        <sha1>20E2254282E8EBBF1D1455DB46898D08113B85B6</sha1>
+    </ines>
+    <ines>
+        <file>Slalom (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>86670C93</crc>
+        <sha1>17EBB77B5A7258BBB83B5F1B2630067542DD7861</sha1>
+    </ines>
+    <ines>
+        <file>Snake Rattle N Roll (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>FDF4569B</crc>
+        <sha1>BC9B2B877A87F8A8FB80513B18BFCF805C462CD2</sha1>
+    </ines>
+    <ines>
+        <file>Soccer (JU) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>657F7875</crc>
+        <sha1>A54E246F1C4E7336ED71AED2656288D943C6E36C</sha1>
+    </ines>
+    <ines>
+        <file>Sonic The Hedgehog (Unl) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>78872BD7</crc>
+        <sha1>14D47FE37850EE801109978DB87D8C98152B7FB2</sha1>
+    </ines>
+    <ines>
+        <file>Spider-Man - Return of the Sinister Six (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>D679627A</crc>
+        <sha1>BECA615EEB6304720F9430676A935CF8C1F54ED7</sha1>
+    </ines>
+    <ines>
+        <file>Star Warrior.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <mapper>3</mapper>
+        <crc>C4835A34</crc>
+        <sha1>C00AFE3991B3E29904A1F6974DFA37FFD8A2470D</sha1>
+    </ines>
+    <ines>
+        <file>Super 3-in-1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>512</prg>
+        <chr>512</chr>
+        <wram>8</wram>
+        <mapper>45</mapper>
+        <crc>B7594365</crc>
+        <sha1>0D16DE52ADD9EFEC448F4BB7DDB98AA104CE3744</sha1>
+    </ines>
+    <ines>
+        <file>Super 4-in-1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>512</prg>
+        <chr>512</chr>
+        <wram>8</wram>
+        <mapper>45</mapper>
+        <crc>602D7E1B</crc>
+        <sha1>6693AD2B0E98E4153D572E3585A2B809DE03830A</sha1>
+    </ines>
+    <ines>
+        <file>Super 8-in-1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>1024</prg>
+        <chr>1024</chr>
+        <wram>8</wram>
+        <mapper>45</mapper>
+        <crc>4EAA8D0E</crc>
+        <sha1>E10696CCA08F43467BCF1EC886A7E29AE20EED6E</sha1>
+    </ines>
+    <ines>
+        <file>Super 8-in-1 Fighting.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>1024</prg>
+        <mapper>251</mapper>
+        <crc>A5D2BC9F</crc>
+        <sha1>C5E6860712D478CEFC5F762BCB2F5EA20744AA41</sha1>
+    </ines>
+    <ines>
+        <file>Super 35-in-1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>2BBA037A</crc>
+        <sha1>B6D1C372A38D196112AA98905C709AD844BD6627</sha1>
+    </ines>
+    <ines>
+        <file>Super 42-in-1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>1024</prg>
+        <vram>8</vram>
+        <mapper>226</mapper>
+        <crc>C9F92BD9</crc>
+        <sha1>6060EB360B9B4AE7ACA024C00ACE5B472371D721</sha1>
+    </ines>
+    <ines>
+        <file>Super 700-in-1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>2048</prg>
+        <chr>1024</chr>
+        <mapper>62</mapper>
+        <crc>BC66994F</crc>
+        <sha1>39233B4C3CF7C0F049E52B72D7CCAC58241FE1AD</sha1>
+    </ines>
+    <ines>
+        <file>Super 1000000-in-1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>512</prg>
+        <chr>512</chr>
+        <wram>8</wram>
+        <mapper>45</mapper>
+        <crc>20DF0149</crc>
+        <sha1>67E86430CA68FEAA1EC08E73B90AC1DF5FA75A25</sha1>
+    </ines>
+    <ines>
+        <file>Super Aladdin.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>A38DF799</crc>
+        <sha1>E32F04DBDA364A7A322F11CDE59A7016E6E1B2E4</sha1>
+    </ines>
+    <ines>
+        <file>Super Aladdin (Unl).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>A38DF799</crc>
+        <sha1>E32F04DBDA364A7A322F11CDE59A7016E6E1B2E4</sha1>
+    </ines>
+    <ines>
+        <file>Super C (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>305B4E62</crc>
+        <sha1>B630AF147818FA61A1B45551F35C4FB4BC1357AA</sha1>
+    </ines>
+    <ines>
+        <file>Super Contra.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>120</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>83C165E8</crc>
+        <sha1>21DDB5E11D39C49515A31EBDE4BF4FD3955D57F5</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario 14.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>4</mapper>
+        <crc>DEE05A23</crc>
+        <sha1>1AEF57E09EE6C8B1FB3F7A22B23A30C1011ACC5D</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>8E2BD25C</crc>
+        <sha1>71FDB80C3583010422652CC5AAE8E2E4131E49F3</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros - Duck Hunt - Track Meet (U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>64</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>60E63537</crc>
+        <sha1>63CEE1A049BF11967202FB6F903884A561B01D3C</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>57AC67AF</crc>
+        <sha1>43AC7C7AAF1846EAD7B544302BB9131E4964FD32</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros 2 (different_levels)_[p2][!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>50</mapper>
+        <crc>313491ED</crc>
+        <sha1>0FFE5AA3FBEE72601BD629849A30379937D170D7</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros 3.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>2E6301ED</crc>
+        <sha1>BB894D104C796F69BA16587EB66C0275F5C2FC02</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros..nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>8E2BD25C</crc>
+        <sha1>71FDB80C3583010422652CC5AAE8E2E4131E49F3</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros. 2 (PRG0).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>57AC67AF</crc>
+        <sha1>43AC7C7AAF1846EAD7B544302BB9131E4964FD32</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros. 3 (PRG0).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>2E6301ED</crc>
+        <sha1>BB894D104C796F69BA16587EB66C0275F5C2FC02</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario USA.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>80FB7E6B</crc>
+        <sha1>867F8F37C10C737AF77FBCC8853BF95B9DE248EE</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario World.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>512</prg>
+        <chr>256</chr>
+        <mapper>90</mapper>
+        <crc>D63D6B36</crc>
+        <sha1>02A27A791D260A454A7714AD9EC26A0C1C1E80F2</sha1>
+    </ines>
+    <ines>
+        <file>Super Robin Hood [p1][!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>64</prg>
+        <vram>8</vram>
+        <mapper>71</mapper>
+        <crc>3E81DD67</crc>
+        <sha1>E0BBE3502AA0A0A77088225D3BB7449A544B653F</sha1>
+    </ines>
+    <ines>
+        <file>Super Spy Hunter (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>AB41445E</crc>
+        <sha1>9E6345F7B49A53E4D78C9AA9641A81215A10481A</sha1>
+    </ines>
+    <ines>
+        <file>Takahashi Meijin no Bouken Shima IV (J) [T-Eng.99].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>4C7490E4</crc>
+        <sha1>384F12B92C12AF64206C8ACDD846F322588247E2</sha1>
+    </ines>
+    <ines>
+        <file>TaleSpin.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>798EEB98</crc>
+        <sha1>AB1567BE407C4F05CBAD8F1B434F2D3C745BCC84</sha1>
+    </ines>
+    <ines>
+        <file>Tank 1990.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>78048FC1</crc>
+        <sha1>C11ACA89B82891AA0A6BCD313B1C2A2E9CD37253</sha1>
+    </ines>
+    <ines>
+        <file>Tank 1990 (As) [p1].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>78048FC1</crc>
+        <sha1>C11ACA89B82891AA0A6BCD313B1C2A2E9CD37253</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>00AD1189</crc>
+        <sha1>9F42C6C9A34E808138EAFDD314BAE359D80E6FF9</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles - Tournament Fighters (U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>86964EDD</crc>
+        <sha1>C9E1EAF2DA59F7CDD923B23E9D74DB2D430964FC</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>A9217EA2</crc>
+        <sha1>DEE9CF8DCC91DE3F9C65181A07E7E84F7570363D</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles 3.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>BB6D7949</crc>
+        <sha1>B3228341C41EDD6751AF37FD3DC83B07899A6D55</sha1>
+    </ines>
+    <ines>
+        <file>Tekken 2 (Unl) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>512</chr>
+        <mapper>90</mapper>
+        <crc>FC78ACAF</crc>
+        <sha1>8971811A774983DE1AB45BF293BE9C50D5707D49</sha1>
+    </ines>
+    <ines>
+        <file>Terminator 2 - Judgment Day (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>EA27B477</crc>
+        <sha1>DBF35D2F94D0F5F6B39621E8A29E864EEAEDE173</sha1>
+    </ines>
+    <ines>
+        <file>Terminator, The (U) [!p].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>6272C549</crc>
+        <sha1>B57C4E9CE3212F4E75B71A733FF2907970521D40</sha1>
+    </ines>
+    <ines>
+        <file>Tetris.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>E0361415</crc>
+        <sha1>CD047C09BA3FC5DB978163F841B7FD2B816D12A0</sha1>
+    </ines>
+    <ines>
+        <file>Tetris (Unl).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <mapper>3</mapper>
+        <crc>1AA0DBAF</crc>
+        <sha1>3EC81125B7FFB267B29603B8FBC3175EBD2DB8E1</sha1>
+    </ines>
+    <ines>
+        <file>Tetris (VS).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <wram>8</wram>
+        <vram>4</vram>
+        <mapper>99</mapper>
+        <crc>E9A6F17D</crc>
+        <sha1>1A17DF593C658F56D71B7026D2771396BFF95B36</sha1>
+    </ines>
+    <ines>
+        <file>Tetris 2.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>5D2B1962</crc>
+        <sha1>50BD6D656759EC982F600FAEEA0EC674DFF86868</sha1>
+    </ines>
+    <ines>
+        <file>Tetris 2 + Bombliss.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <wram>8</wram>
+        <vram>8</vram>
+        <battery>yes</battery>
+        <mapper>1</mapper>
+        <crc>FD45E9C1</crc>
+        <sha1>7A06EF6867F116CB9217D66813CC6E94E3DA4A33</sha1>
+    </ines>
+    <ines>
+        <file>Tetris Flash.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>2746B39E</crc>
+        <sha1>06890A6B8DADFFC2875CE4DBF82C9B314BE97AE1</sha1>
+    </ines>
+    <ines>
+        <file>Time Diver Avenger (Unl).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <mapper>250</mapper>
+        <crc>1C9FB8F7</crc>
+        <sha1>1194A301F5F9EAD37F3B3EE9A0BD6C6943357D23</sha1>
+    </ines>
+    <ines>
+        <file>Tiny Mario Adventures.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>A2BD26DE</crc>
+        <sha1>E4C1D967A8B35D7BF1C38F342184042B32625F5E</sha1>
+    </ines>
+    <ines>
+        <file>Tiny Toon Adventures 2 - Montana Land he Youkoso_(J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>85</mapper>
+        <crc>E4362167</crc>
+        <sha1>4A771856257130C4C867214BD173BA54ED80A919</sha1>
+    </ines>
+    <ines>
+        <file>Tiny Toon Adventures 2 - Trouble in Wackyland.NES</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>81A5EB65</crc>
+        <sha1>BE4EF2B1260CBD0743B074BF3FC1D266C504D72D</sha1>
+    </ines>
+    <ines>
+        <file>Tiny Toon Adventures Cartoon Workshop (U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>9E6092A4</crc>
+        <sha1>8B3CA684081CC60B40EA76AAB6B4E6F32B27F8A7</sha1>
+    </ines>
+    <ines>
+        <file>Tom &amp; Jerry (and Tuffy) (U).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>D63B30F5</crc>
+        <sha1>E4D7FBE95FC5FA25BDCE3F0213D2051B1D013A0C</sha1>
+    </ines>
+    <ines>
+        <file>Tom &amp; Jerry 3.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>0AA49929</crc>
+        <sha1>966D61DF2F514B8EA83B99ADE6E666A81A8647A9</sha1>
+    </ines>
+    <ines>
+        <file>Top Gun.NES</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>957F3D28</crc>
+        <sha1>4ECA53A2134736FDF30952C5BB4C903FCA2E4699</sha1>
+    </ines>
+    <ines>
+        <file>Top Gun - Dual Fighters (J).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>CA96AD0E</crc>
+        <sha1>FD240D2B71F7F1BB723867C02827544CA89F0863</sha1>
+    </ines>
+    <ines>
+        <file>Top Gun - The Second Mission (E).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E1C59D94</crc>
+        <sha1>E310219646244C6E11E0C11BCB29FD021510215F</sha1>
+    </ines>
+    <ines>
+        <file>Top Gun (VS).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>8C0C2DF5</crc>
+        <sha1>D9B1B87204E025A637821A0168475E1209CE0C8A</sha1>
+    </ines>
+    <ines>
+        <file>Track &amp; Field (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>9C9F3571</crc>
+        <sha1>C76212E682C0FB725B542AB11EFFB3A48137B0C8</sha1>
+    </ines>
+    <ines>
+        <file>TwinBee 3 - Poko Poko Dai Maou (J) [T+Eng1.02_Demiforce].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <mapper>22</mapper>
+        <crc>BDF1307C</crc>
+        <sha1>484C781D0FFB27CC4C730270CA72CA4122CD111B</sha1>
+    </ines>
+    <ines>
+        <file>Wild Gunman (U) (PRG0) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>B8B9ACA3</crc>
+        <sha1>B038D3C653DAA0E3D671E373A3813C971EE8EC85</sha1>
+    </ines>
+    <ines>
+        <file>World CUP.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>A22657FA</crc>
+        <sha1>D529E7FB2BA1AEEFD7F7A5258B53732461F85BA0</sha1>
+    </ines>
+    <ines>
+        <file>Wrath of the Black Manta (U) (PRG0) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>F651398D</crc>
+        <sha1>5C972003B62D7B1503FC4604E8B547635359F64A</sha1>
+    </ines>
+    <ines>
+        <file>WWF King of the Ring.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>7B4ED0BB</crc>
+        <sha1>394395B825F3D16902DF427E93C2310302A2B9AF</sha1>
+    </ines>
+    <ines>
+        <file>WWF Steel Cage Challenge (E).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>21F2A1A6</crc>
+        <sha1>D72D5A390ADCA2210153E2B4DBC0A3229100D125</sha1>
+    </ines>
+    <ines>
+        <file>WWF Wrestlemania.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>37138039</crc>
+        <sha1>D55E8202929D922A84122921EF5C9671135B3E77</sha1>
+    </ines>
+    <ines>
+        <file>WWF WrestleMania Challenge (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>A0230D75</crc>
+        <sha1>7CF7192C0EEE713C3AAFF84D38D45D1846F1B105</sha1>
+    </ines>
+    <ines>
+        <file>Yie Ar Kung-Fu (J) (V1.4).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>86CEFC12</crc>
+        <sha1>55D6146D7CDDB4CA9BD368DCACD5A855999C1017</sha1>
+    </ines>
+    <ines>
+        <file>Yo! Noid (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>50D141FC</crc>
+        <sha1>C62EE99255721AB3112DB7ABF1B7353DBEA706CA</sha1>
+    </ines>
+    <ines>
+        <file>Young Indiana Jones Chronicles, The (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>35C6F574</crc>
+        <sha1>2E3F613B2918D253D893E5210FE2E43543C88C59</sha1>
+    </ines>
+    <ines>
+        <file>Zen Intergalactic Ninja (U) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.EN\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>D8578BFD</crc>
+        <sha1>74D8E5818B719245BD9174C3CE64C860D47F30D4</sha1>
+    </ines>
+    <ines>
+        <file>Adventure Island (U) [t1] [T-Rus] [!] by Mario Soft &amp; Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>1D9E031B</crc>
+        <sha1>DB5FC879A234E98EFEE08AA322326C531FDD157D</sha1>
+    </ines>
+    <ines>
+        <file>Adventure Island II (U) [1] [T-Rus] [!] by Mario Soft &amp; Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>EC24D185</crc>
+        <sha1>D5822651E919C003DEC3485A17E7D0059400E2FB</sha1>
+    </ines>
+    <ines>
+        <file>Adventure Island III (U) [t1] [T-Rus] [!] by Mario Soft &amp; Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>723FA0B2</crc>
+        <sha1>513D1753EA23A40474EEA8EFCC63E92592C35338</sha1>
+    </ines>
+    <ines>
+        <file>Adventure Island IV (U) [T-Rus] by Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>7F42BACE</crc>
+        <sha1>FF94DF6E62F1E957D91A8CB9F6C6C41DA935FE27</sha1>
+    </ines>
+    <ines>
+        <file>Alien 3 (U) [T-Rus] [!] 1.0 by Shedevr.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>7DB504E3</crc>
+        <sha1>2D0E5BF7584AF523C53C06F935287B49E40DFA64</sha1>
+    </ines>
+    <ines>
+        <file>Battle City (J) [T+Rus] by Cool-Spot.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>DDD44B3D</crc>
+        <sha1>25D4B302144149AF6E4756D795FE9D3EA7783028</sha1>
+    </ines>
+    <ines>
+        <file>Battleship [T+Rus_Pirates].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>09B292E9</crc>
+        <sha1>842E42D5BBA28F7E5E0B6191C2DC908F2C3C0D2A</sha1>
+    </ines>
+    <ines>
+        <file>Battletoads &amp; Double Dragon.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>1DC35ABE</crc>
+        <sha1>657018D98AD79C5975CB638E5735A73DC3243F08</sha1>
+    </ines>
+    <ines>
+        <file>Battletoads (U) [!] [T-Rus] v1.2 by MagicTeam &amp; Djinn.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <vram>8</vram>
+        <mapper>7</mapper>
+        <crc>3A347B5D</crc>
+        <sha1>6C150A7AF2851C48353EEFC56BE3BF2CDAE224D0</sha1>
+    </ines>
+    <ines>
+        <file>Bomberman (U) [T-Rus] [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>B798A8E8</crc>
+        <sha1>7FF7F715883E86F99DB7AA01EFB593D1589EBFA9</sha1>
+    </ines>
+    <ines>
+        <file>Castlevania [T-Rus_Ifritz].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>C060EE63</crc>
+        <sha1>8F179213930DCD0C000E73BDD8D51C95869974DD</sha1>
+    </ines>
+    <ines>
+        <file>Castlevania II - Simon&apos;s Quest [T+Rus_2R_Team].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>42D07750</crc>
+        <sha1>5465574ABDF230CF4E7864D44FFFB0F3B886FCEA</sha1>
+    </ines>
+    <ines>
+        <file>Castlevania III - Dracula&apos;s Curse [T+Rus_Ifritz].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>5</mapper>
+        <crc>203198EB</crc>
+        <sha1>849C9501B03E27532BB951DC660F312BD937B77A</sha1>
+    </ines>
+    <ines>
+        <file>Championship Lode Runner [T+Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>585B2389</crc>
+        <sha1>2CACB705BA33976C9BB3C7C7A6D397E24ECB57C7</sha1>
+    </ines>
+    <ines>
+        <file>Chip &apos;n Dale Rescue Rangers (U) [T-Rus] [!] by Shedevr.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>EA873A76</crc>
+        <sha1>9506A61D80159FD1275BD8561667E7474C83AA8F</sha1>
+    </ines>
+    <ines>
+        <file>Chip &apos;n Dale Rescue Rangers 2 (U) [T-Rus] [!] by Shedevr.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>F59A13E2</crc>
+        <sha1>B503EEF84D0DE95E30DF519C54D64C3C0973BDC4</sha1>
+    </ines>
+    <ines>
+        <file>Contra (J) [T+Rus_Chronix].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <mapper>23</mapper>
+        <crc>A002B55B</crc>
+        <sha1>DE055E5675C0B590A2F0850B8A24E4108EC53353</sha1>
+    </ines>
+    <ines>
+        <file>Contra (J) [t7][T+Rus_Shedevr,Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <mapper>23</mapper>
+        <crc>E72D8C5C</crc>
+        <sha1>9BA23C9581D8A7CA08F5B36122513AFB949C01D3</sha1>
+    </ines>
+    <ines>
+        <file>Contra (R) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>43FB36BD</crc>
+        <sha1>B49263E97AE89C01D84BB9233A0542C7294534D9</sha1>
+    </ines>
+    <ines>
+        <file>Contra Force (Rus).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E10B173E</crc>
+        <sha1>4DDD80969B4D03CCF04C07B51D8D3E6556B97ABF</sha1>
+    </ines>
+    <ines>
+        <file>Contra Force (U) [T-Rus] [!] 1.0 by Yoshi.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>57486B8F</crc>
+        <sha1>F584912A7CA456E2A47C968AC2A4E1E865C10D81</sha1>
+    </ines>
+    <ines>
+        <file>Contra Force (U) [T+Rus_Griever].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>E10B173E</crc>
+        <sha1>4DDD80969B4D03CCF04C07B51D8D3E6556B97ABF</sha1>
+    </ines>
+    <ines>
+        <file>Contra Force (U) [T+Rus_Magicteam].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>81D89935</crc>
+        <sha1>D903CC923A8721DD7991DD963F5EA21EC81C7F47</sha1>
+    </ines>
+    <ines>
+        <file>Contra Force (U) [T+Rus1.0_Yoshi].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>57486B8F</crc>
+        <sha1>F584912A7CA456E2A47C968AC2A4E1E865C10D81</sha1>
+    </ines>
+    <ines>
+        <file>Contra Force (U) [T+Rus07a_Vovan].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>853D374E</crc>
+        <sha1>CF2510C4607B22AD560F9E71DA6293635BDF8168</sha1>
+    </ines>
+    <ines>
+        <file>Contra Super (Rus).nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>09389577</crc>
+        <sha1>A00133A8E4DCBB79F161E469C08017CC2DB258DD</sha1>
+    </ines>
+    <ines>
+        <file>Darkwing Duck (U) [T-Rus].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>42B582B6</crc>
+        <sha1>A93CFADCB827A40F59D03EB0BD826FCF8CC4563F</sha1>
+    </ines>
+    <ines>
+        <file>Desert Commander [T+Rus_Guyver].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>74BA9185</crc>
+        <sha1>7CB465B71DB1D518177618F340D6ED84CE6AD97A</sha1>
+    </ines>
+    <ines>
+        <file>Donkey Kong [T-Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>D67D7181</crc>
+        <sha1>3E7F1C2C24CE3930E9AFD3A648FE08BA0AF14FB3</sha1>
+    </ines>
+    <ines>
+        <file>Donkey Kong 3 [T-Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>437F80C9</crc>
+        <sha1>885ED643E42E30B1950D55C347E8027FF2A6A04F</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon [T+Rus_Chief-net].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>89EF456A</crc>
+        <sha1>B2B16A9988EC7D632E7E58DE5267507BD1DFC983</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon II - The Revenge [T+Rus_Chief-Net].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>A2D89655</crc>
+        <sha1>69AD145CC2AA647A1AA8AC3F39325CE94F59A57E</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon III - The Sacred Stones [T-Rus] [t2] [!] by RusTranslate Team &amp; Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>6106C9E1</crc>
+        <sha1>A947A29A8BE7598F48FC2EF3FEE4FE99F6BDBF43</sha1>
+    </ines>
+    <ines>
+        <file>Double Dragon IV (Unl) (Hack Target - Renegade) [T+Rus] by Cool-Spot.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>53E4DA92</crc>
+        <sha1>514502F565AD32064F1E34978C7000929CAE2184</sha1>
+    </ines>
+    <ines>
+        <file>Dragon Spirit - The New Legend [T+Rus_Shedevr].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>3410B987</crc>
+        <sha1>59ED58684B55C87B8398FB539AFB76C5A3F3BEEF</sha1>
+    </ines>
+    <ines>
+        <file>Duck Hunt [T+Rus_Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>CF2C6F40</crc>
+        <sha1>B5D474B451A9F02D1B7CE0E0D273CF4FAB64053E</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales (U) [T-Rus] [!] by Chief-Net.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>F622FBF6</crc>
+        <sha1>3728221DDD654C283CC2E95D8AA83375CBD8A41E</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales 2 (U) [T-Rus] [!] by Shedevr.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>AD8CFD76</crc>
+        <sha1>1DCB6331F3B52FB383B648BB9E66E3B426375117</sha1>
+    </ines>
+    <ines>
+        <file>Duck Tales III (R) [!].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>15B1CBBD</crc>
+        <sha1>EC1998D8B1AF72628305DAF15BD9DD100BF7D3AB</sha1>
+    </ines>
+    <ines>
+        <file>Felix the Cat (U) [T-Rus] [!] by Blader.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>ED4CED46</crc>
+        <sha1>F6434877215BA2076E71E123AD6AB2EB4BB11478</sha1>
+    </ines>
+    <ines>
+        <file>Flintstones, The - The Surprise at Dinosaur Peak! [T+Rus_Magicteam].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>pal</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>FFADD7F7</crc>
+        <sha1>CFBF1D0AE660F8C9524C27DE112446B10D8C7812</sha1>
+    </ines>
+    <ines>
+        <file>Galaxian [T+Rus_Lexa3a].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>61A96AC8</crc>
+        <sha1>1F5CAD2E222B09BE73DA6A9EE71B0A9216468B07</sha1>
+    </ines>
+    <ines>
+        <file>Ghostbusters [T+Rus_Magic Team].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>E17B77AF</crc>
+        <sha1>55DBB66C4DD4A17BB006094E4EB27849819A0FB7</sha1>
+    </ines>
+    <ines>
+        <file>Ghostbusters 2 [T+Rus_Magic Team].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>AECEB303</crc>
+        <sha1>1457739F3874C094C867127AED59D38E91CD5D1C</sha1>
+    </ines>
+    <ines>
+        <file>Hudson&apos;s Adventure Island III [T+Rus_MarioSoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>44FB5CE1</crc>
+        <sha1>C00718070EA8A5D56C44AA622E94231E1590E183</sha1>
+    </ines>
+    <ines>
+        <file>Hunt for Red October, The [T+Rus_Chief-Net].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>169DE746</crc>
+        <sha1>A3986F3207ABCFC7C7D23787CB7BD42CB9744C79</sha1>
+    </ines>
+    <ines>
+        <file>Ice Climber [T+Rus_Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>322BBCBF</crc>
+        <sha1>BE9CE614727BF3D6604B817858B993CBACCBAA89</sha1>
+    </ines>
+    <ines>
+        <file>Immortal, The [T+Rus_MagicTeam].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>7D5E2088</crc>
+        <sha1>739229CB819D40F785C2799683DD842330739CE2</sha1>
+    </ines>
+    <ines>
+        <file>Indiana Jones and the Last Crusade (U) [T-Rus] [!] by Shedevr.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <wram>8</wram>
+        <vram>8</vram>
+        <mapper>1</mapper>
+        <crc>199848C3</crc>
+        <sha1>E0C78A07AA2B3F1EE7C1C8193EDAC9ACFA65697B</sha1>
+    </ines>
+    <ines>
+        <file>Jungle Book, The [T+Rus_Shedevr].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>5B16B038</crc>
+        <sha1>BC39AAEB4B483FBC51C5D4DD3462F26591B8228B</sha1>
+    </ines>
+    <ines>
+        <file>Jurassic Park [T+Rus_Shedevr].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>8EAC1967</crc>
+        <sha1>8AF2B21DAEB34728BA5C2142E277E4905278A15A</sha1>
+    </ines>
+    <ines>
+        <file>Karateka [T+Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>1A538FC7</crc>
+        <sha1>E64ED4446459472E1405CF3B771935DFF6133557</sha1>
+    </ines>
+    <ines>
+        <file>Lines (R) [!] by SPB.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>7CCB8D1E</crc>
+        <sha1>F4867214E6E6F11C9E3A75576E74059302FB7BBF</sha1>
+    </ines>
+    <ines>
+        <file>Little Mermaid (R) [!] by Electronica.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>04CCE62C</crc>
+        <sha1>EA53C0944871F6E6E760C54DAC1A878F47A21B64</sha1>
+    </ines>
+    <ines>
+        <file>Lode Runner (U) [T-Rus] [!] by EmuCraft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>1543DF25</crc>
+        <sha1>254A20726DD64A1744A612DC21CDE3F635166CA5</sha1>
+    </ines>
+    <ines>
+        <file>Lunar Ball (J) [T-Rus] v0.1 by Satan.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>045AC501</crc>
+        <sha1>52B08C5C81EACE2CD101935F6159D4DC63D0DF9A</sha1>
+    </ines>
+    <ines>
+        <file>Lunar Ball [T+Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>2FCB5347</crc>
+        <sha1>FADB21D5AC7A3B77F737370539DC421D3B18CA49</sha1>
+    </ines>
+    <ines>
+        <file>Lunar Pool [T+Rus_Lin].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>6E8BAD4F</crc>
+        <sha1>F26FE288D56136871501501E825326FB4AB166FA</sha1>
+    </ines>
+    <ines>
+        <file>Mario Bros. (JU) [!] [T+Rus] by Cool-Spot.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>9D373954</crc>
+        <sha1>C338E33ECA0BBB9CA82F2022C7E8B9CBDA244D05</sha1>
+    </ines>
+    <ines>
+        <file>Metal Gear [T+Rus_Shedevr].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>1A30F2ED</crc>
+        <sha1>BC48F6B946C3875796B9D4E83833DC66BFD23174</sha1>
+    </ines>
+    <ines>
+        <file>Mickey Mousecapade (Mickey Classic) (U) [T-Rus] [!] v1.1 by BlueHairLady.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>A8B7030F</crc>
+        <sha1>AC78415CA21CA388DD6C39C270D25619261BCE14</sha1>
+    </ines>
+    <ines>
+        <file>Mickey Mousecapade [T+Rus_BlueHairLady].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>A8B7030F</crc>
+        <sha1>AC78415CA21CA388DD6C39C270D25619261BCE14</sha1>
+    </ines>
+    <ines>
+        <file>Mortal Kombat 3 [T-Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>F6970C41</crc>
+        <sha1>1ED9DB4263AAA38BE6BF69A82D44F209A08DA8BF</sha1>
+    </ines>
+    <ines>
+        <file>New Ghostbusters II [T+Rus_Magic Team].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>DF631FBC</crc>
+        <sha1>D8D837BA7B8E8D218D1A926D1D1D5E9FD45B1FC1</sha1>
+    </ines>
+    <ines>
+        <file>Ninja Gaiden [T+Rus_Magic Team].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>1E39C4DA</crc>
+        <sha1>08678261FEF60AC1B4365A39368A0A00AEC7A5C5</sha1>
+    </ines>
+    <ines>
+        <file>Ninja Gaiden II - The Dark Sword of Chaos [T+Rus_MagicTeam].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>283E659D</crc>
+        <sha1>78E91131F7699C857D48116B7F467B4CC12E463F</sha1>
+    </ines>
+    <ines>
+        <file>Ninja Gaiden III - The Ancient Ship of Doom (U) [T-Rus] [!] by Shedevr.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>4506EF18</crc>
+        <sha1>FF0AF0C5E6AE64DD5AD272918915FFFB9EA01484</sha1>
+    </ines>
+    <ines>
+        <file>P.O.W. - Prisoners of War [T+Rus_Chief-Net].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>D9283B5D</crc>
+        <sha1>80378FD142D0A9B39BA3969CDCF4AF5E6B4A3A66</sha1>
+    </ines>
+    <ines>
+        <file>Pinball [T+Rus_Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>FAB13F45</crc>
+        <sha1>93F8EEC333E9FB73A4DB796703AA3F9B902EC1C8</sha1>
+    </ines>
+    <ines>
+        <file>Pinball Quest [T+Rus_Chief-Net].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>BEF28EA3</crc>
+        <sha1>DC3A0F60306124DB61A2740B1084BD39C56AEB00</sha1>
+    </ines>
+    <ines>
+        <file>Pirates! [T+Rus_Chief-Net].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>1</mapper>
+        <crc>187CAB1C</crc>
+        <sha1>4DE31E5B0D8CCD2886E2C1479A62F784D3AA4C51</sha1>
+    </ines>
+    <ines>
+        <file>Popeye (U) (PRG0) (T-Rus) [!] by Mario Soft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>86DEC32C</crc>
+        <sha1>3C71637F2CB8F2C7B5F20ECCA71E4FD68CCFA3FE</sha1>
+    </ines>
+    <ines>
+        <file>Popeye [T+Rus_Guyver].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>6F302B6E</crc>
+        <sha1>756D37DBE81FFD4F87448C814F4CE06A970984A5</sha1>
+    </ines>
+    <ines>
+        <file>Power Blade [T+Rus_Lupus_&amp;_Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>8A9B8988</crc>
+        <sha1>D0EDF827093CD7F4F3646A12FB85036B792F8B76</sha1>
+    </ines>
+    <ines>
+        <file>Power Blade 2 [T+Rus_Shedevr_&amp;_Chronix].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>0B6EDD3D</crc>
+        <sha1>2FA032CD9E2FCB2E2F61A7CFCF3A43A7FE5ED4EF</sha1>
+    </ines>
+    <ines>
+        <file>Predator [T+Rus_Chief-Net].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>B2D95EB4</crc>
+        <sha1>DAA8F24683DF6D236473BB0ADD0EB3E8F4B48E9D</sha1>
+    </ines>
+    <ines>
+        <file>Prince of Persia (R) [!] by Electronica.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>3A47BA55</crc>
+        <sha1>3B40CF5310F2D15A5F5F44EA205D2AC1E2A18657</sha1>
+    </ines>
+    <ines>
+        <file>Raf World [T+Rus_Shedevr].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>C4AD944F</crc>
+        <sha1>F56A97A10376FEFE9B0A666DEABB61F77C6A7092</sha1>
+    </ines>
+    <ines>
+        <file>Rambo [T+Rus_Demolition-team].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>5FE4E309</crc>
+        <sha1>683BD150A4B3B331749E660132DE4AC897895B9D</sha1>
+    </ines>
+    <ines>
+        <file>RoboCop (U) [T-Rus] [!] by Alex Kopylov.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>0C5E6E00</crc>
+        <sha1>DFB601B80C667AA898B61C3B543336410F510879</sha1>
+    </ines>
+    <ines>
+        <file>Robocop 2 (U) (PRG1) [T-Rus] [!] by Shedevr, Chronix.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>4B08CD59</crc>
+        <sha1>92170C09F23E81A3005EE2BEA944DA60935FDAD9</sha1>
+    </ines>
+    <ines>
+        <file>Robocop 3 (U) [T-Rus] [!p] by Shedevr, CaH4e3, Chronix.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>CBF45F3B</crc>
+        <sha1>B599EE93E0CB8D0DF91934565E6BFB88FD269886</sha1>
+    </ines>
+    <ines>
+        <file>Rockin&apos; Kats [T+Rus_Shedevr].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>DEA9327B</crc>
+        <sha1>F44E6B16538816EAEAD614066A97EF8799817525</sha1>
+    </ines>
+    <ines>
+        <file>Rush&apos;n Attack [T-Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <vram>8</vram>
+        <mapper>2</mapper>
+        <crc>09BC339B</crc>
+        <sha1>15579EB1B822DDE80D90CD0895D013D046023033</sha1>
+    </ines>
+    <ines>
+        <file>Sky Destroyer [T-Rus_Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>1DE12107</crc>
+        <sha1>F630F2805470B71942E4E7C15A24F52423F0B648</sha1>
+    </ines>
+    <ines>
+        <file>Snake&apos;s Revenge [T+Rus_Magicteam].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>B6E81384</crc>
+        <sha1>4D5CC6E7C4A42F6024CB427C1CD1B164C3FA00CE</sha1>
+    </ines>
+    <ines>
+        <file>Solitaire [T+Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <wram>8</wram>
+        <vram>8</vram>
+        <crc>FBA8161C</crc>
+        <sha1>5ED53668AD3992E4273C32913F5FE77FD1A9245E</sha1>
+    </ines>
+    <ines>
+        <file>Solomon&apos;s Key [T+Rus_Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>6BE9968C</crc>
+        <sha1>ED6E1CD89B82FA91A0E0F7A03BABC837B9F3F724</sha1>
+    </ines>
+    <ines>
+        <file>Space Invaders [T+Rus_Lex3a].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>D88C3B55</crc>
+        <sha1>BB2F5F3FF40C5472070ECAD9B99AF59FF88BBD10</sha1>
+    </ines>
+    <ines>
+        <file>Spider-Man - Return of the Sinister Six [T+Rus_Magicteam].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>DCEF81CE</crc>
+        <sha1>B5C3879729E9A10271D08B64C0C271479F779DA2</sha1>
+    </ines>
+    <ines>
+        <file>Star Force [T-Rus_Cool-Spot+Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>7B2AA2CB</crc>
+        <sha1>11D752E1037E6B49CAE465EABEAA169CC9E0EB83</sha1>
+    </ines>
+    <ines>
+        <file>Star Gate [T-Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>702A9C7A</crc>
+        <sha1>E97B00E7999E53F4F804FD781E70A22BE36DA0C5</sha1>
+    </ines>
+    <ines>
+        <file>Star Soldier [T+Rus_Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>32</chr>
+        <mapper>3</mapper>
+        <crc>34F8366E</crc>
+        <sha1>B9268B2923B8D87D0BE08F461EE9302BBB400D9C</sha1>
+    </ines>
+    <ines>
+        <file>Star Wars Episode IV - New Hope [T+Rus_Coregon, Mukimuki_&amp;_Shinta].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>19</mapper>
+        <crc>6A3801AA</crc>
+        <sha1>169DF610D09C798C33D414309819C37E08A422A2</sha1>
+    </ines>
+    <ines>
+        <file>Super C (U) [T-Rus] [!] by Vovan.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>09389577</crc>
+        <sha1>A00133A8E4DCBB79F161E469C08017CC2DB258DD</sha1>
+    </ines>
+    <ines>
+        <file>Super C (U) [T-Rus_Yoshi].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>120</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>08F2AA8D</crc>
+        <sha1>35D9304707D0FA80FA4E18206AA2166ACD3C399F</sha1>
+    </ines>
+    <ines>
+        <file>Super C (U) [T+Rus_Vovan].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>09389577</crc>
+        <sha1>A00133A8E4DCBB79F161E469C08017CC2DB258DD</sha1>
+    </ines>
+    <ines>
+        <file>Super C (U) [T+Rus_Yoshi,Vovan,Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>074F4D69</crc>
+        <sha1>FBB8565FE9C2CAED3F282EB2959C90E62A6CCE2C</sha1>
+    </ines>
+    <ines>
+        <file>Super C (U) [t1][T+Rus_Yoshi,Vovan,Multisoft].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>B8A94C74</crc>
+        <sha1>94BA42336A9468D6568FEE5E8EE2A3B6BB04D1D9</sha1>
+    </ines>
+    <ines>
+        <file>Super C (U) [t1][T+Rus_Yoshi].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>0FA5DF6F</crc>
+        <sha1>C6D0CF8B57DD8AA7DEB2DAD3AC20D3C862C43DDC</sha1>
+    </ines>
+    <ines>
+        <file>Super Contra 7 (Unl) [t3] [T-Rus] by Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <battery>yes</battery>
+        <mapper>4</mapper>
+        <crc>51BB1A09</crc>
+        <sha1>2447A54A91859A10AA72A6CB3684D22036E377F1</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros [T-Rus] by Multisoft v0.1.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>64</prg>
+        <chr>24</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>887E44EE</crc>
+        <sha1>D6F12E4519C93E9D387E4D84D992DCCB5F128A5F</sha1>
+    </ines>
+    <ines>
+        <file>Super Mario Bros. 3 (E) [T-Rus] by 2R Team, 2R Team.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>8D75EA14</crc>
+        <sha1>08B40CE4D0539D17E450C3EFFCE9F8CD4EB58B66</sha1>
+    </ines>
+    <ines>
+        <file>TaleSpin (E) [T-Rus] [!] by RTS.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>47484DA8</crc>
+        <sha1>AAE5AE4BC16FB7CA747115A8CB657DBA5F06A455</sha1>
+    </ines>
+    <ines>
+        <file>Tank 1990 (As) [p1] [T-Rus] by Zlyden&apos;.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>8</chr>
+        <crc>484D3F0B</crc>
+        <sha1>0993A2F51C54127E0F295A23F92F4D44060CA5BD</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles - Tournament Fighters (U) [T-Rus] [!p] by Shedevr, GottaX.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>06C03AED</crc>
+        <sha1>A478CF61D0A131B66C65272607422905B97F51BA</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles (U) [t1] [T-Rus] [!] by Chronix &amp; Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>F0DE3705</crc>
+        <sha1>34B631C7E7C93F15FFB3AEF7D42B5AE15B19CFB2</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles II - The Arcade Game (U) [t1] [T-Rus] [!] by Shedevr &amp; Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>D9007362</crc>
+        <sha1>8D1908310A7E7A291D25351D748FB344C7855495</sha1>
+    </ines>
+    <ines>
+        <file>Teenage Mutant Ninja Turtles III - The Manhattan Project (U) [t2] [4] [t6] [T-Rus] [!] (Hack Select Weapon) by Chronix &amp; Multisoft.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>256</prg>
+        <chr>256</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>4CAC343F</crc>
+        <sha1>4145C68FC095F12C5F778C6415E062FC82A085A2</sha1>
+    </ines>
+    <ines>
+        <file>Tennis (U) [T-Rus] [!] by Gyuver.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>774F3AAB</crc>
+        <sha1>03A4E0EE5EF8576085970982890DD69C38AC231C</sha1>
+    </ines>
+    <ines>
+        <file>Terminator 2 - Judgment Day [T+Rus_Shedevr].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>D28E23AF</crc>
+        <sha1>B5AA0E5D26B8ABF9EB18103411C7EC81ED1D0ACA</sha1>
+    </ines>
+    <ines>
+        <file>Terminator, The [T+Rus_Magicteam].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>02902327</crc>
+        <sha1>974946FA70FACEF5B9DFB481E095BA8A359D14EC</sha1>
+    </ines>
+    <ines>
+        <file>Tetris (Tengen) [T-Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <mapper>3</mapper>
+        <crc>6462A4D1</crc>
+        <sha1>27484FEB2BA6EF29BD81B7A0D2B0BEC04E64A955</sha1>
+    </ines>
+    <ines>
+        <file>Tetris [T-Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>32</prg>
+        <chr>16</chr>
+        <wram>8</wram>
+        <mapper>1</mapper>
+        <crc>C2056971</crc>
+        <sha1>DE637ADD7D10886F3E0D6FA20686B06B18EBE131</sha1>
+    </ines>
+    <ines>
+        <file>Tiny Toon Adventures (U) [T-Rus] [!] by Chronix.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>27B36D56</crc>
+        <sha1>AA121EFF09EC855E28C409BB7B4492E02CC0788A</sha1>
+    </ines>
+    <ines>
+        <file>Tom &amp; Jerry (and Tuffy) (U) [T-Rus] [!] by 2R Team, RTS.nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>65B6391E</crc>
+        <sha1>99485C42F2D11193F2B5A7B16E2FA784CDB51DA1</sha1>
+    </ines>
+    <ines>
+        <file>Tom &amp; Jerry (and Tuffy) [T+Rus_2R Team].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>65B6391E</crc>
+        <sha1>99485C42F2D11193F2B5A7B16E2FA784CDB51DA1</sha1>
+    </ines>
+    <ines>
+        <file>Tom Sawyer no Bouken [T+Rus_Guyver].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>EEF353C7</crc>
+        <sha1>ABE6D0296B0900EAC6E3EF3FF73005644E4EC5DA</sha1>
+    </ines>
+    <ines>
+        <file>Twin Cobra [T+Rus_greengh0st].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>7E3DD537</crc>
+        <sha1>941CBD0B54380A68DF6232C646BFF35F339E7DE3</sha1>
+    </ines>
+    <ines>
+        <file>Young Indiana Jones Chronicles, The [T+Rus_Shedevr].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>128</prg>
+        <chr>128</chr>
+        <wram>8</wram>
+        <mapper>4</mapper>
+        <crc>A286FF5F</crc>
+        <sha1>4EF59229B35AAF61D17B88DB3362B76F7AEC37AF</sha1>
+    </ines>
+    <ines>
+        <file>Zippy Race [T-Rus_Cool-Spot].nes</file>
+        <dir>D:\Games\Dendy (NES)\GamesVeryBestOf.RU\</dir>
+        <system>ntsc</system>
+        <prg>16</prg>
+        <chr>8</chr>
+        <crc>FBF6AB73</crc>
+        <sha1>FC46271CEBDBE4D9D2371F84CFE73AA4BFFBA0A2</sha1>
+    </ines>
+</launcher>

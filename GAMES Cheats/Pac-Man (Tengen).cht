@@ -1,0 +1,8 @@
+SCD166:70:3C:Power pills last longer[GGC]
+SCD166:FF:3C:Power pills last extra long[GGC]
+SCD166:20:3C:Power pills don't last as long[GGC]
+SCE022:60:A5:Power pills don't work[GGC]
+SCE02F:0D:0F:Only 3 ghosts are edible[GGC]
+SCE02F:09:0F:Only 2 ghosts are edible[GGC]
+0088:0F:Power Pill effect always active
+0067:03:Infinite lives

@@ -1,0 +1,16 @@
+SC8724:84:05:Invincibility (star effect) (1 of 2)[GGC]
+SC872F:84:05:Invincibility (star effect) (2 of 2)[GGC]
+SC8131:50:D0:Invincibility (except vs bullets)[GGC]
+SC8DF5:00:01:Infinite POW[GGC]
+SCDF6F:8D:AD:Always have 255 POW[GGC]
+SC8718:24:C6:Infinite lives - P1[GGC]
+SC871D:24:C6:Infinite lives - P2[GGC]
+SCD16E:01:05:Start with 1 life - P1[GGC]
+SCD176:01:05:Start with 1 life - P2[GGC]
+SCD16E:0A:05:Start with 10 lives - P1[GGC]
+SCD176:0A:05:Start with 10 lives - P2[GGC]
+0020:01:Start on stage 2 (disable after stage begins)
+0020:02:Start on stage 3 (disable after stage begins)
+0020:03:Start on stage 4 (disable after stage begins)
+0020:04:Start on stage 5 (disable after stage begins)
+0020:05:Start on stage 6 (disable after stage begins)

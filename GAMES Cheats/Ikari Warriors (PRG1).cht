@@ -1,0 +1,24 @@
+SCE023:84:80:Invincibility (blinking)[GGC]
+SCB7E2:D0:F0:Invincibility[GGC]
+SCF6DA:A5:D6:Infinite lives[GGC]
+SCFBAE:AD:DE:Infinite missiles for tank[GGC]
+SCF51A:AD:DE:Infinite bullets[GGC]
+SCF582:AD:DE:Infinite grenades[GGC]
+SCF631:01:03:Start with 1 life[GGC]
+SCF631:06:03:Start with 6 lives[GGC]
+SCF631:09:03:Start with 9 lives[GGC]
+SCF2FB:32:63:Start with 50 bullets[GGC]
+SCF300:63:32:Start with 99 grenades[GGC]
+SCF300:19:32:Start with 25 grenades[GGC]
+00E4:09:Infinite lives - P1
+00E5:09:Infinite lives - P2
+0674:DF:Have 3-Way Shot, B Grenades, Super Speed, Knife - P1
+0674:EF:Have F Shot, Long Range, Rapid Fire, B Grenades, Super Speed, Knife - P1
+0675:DF:Have 3-Way Shot, B Grenades, Super Speed, Knife - P2
+0675:EF:Have F Shot, Long Range, Rapid Fire, B Grenades, Super Speed, Knife - P2
+067F:63:Infinite bullets - P1
+0680:63:Infinite grenades - P2
+0681:63:Infinite grenades - P1
+0682:63:Infinite bullets - P2
+0683:FF:Infinite fuel for tank - P1
+0684:FF:Infinite fuel for tank - P2

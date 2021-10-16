@@ -1,0 +1,42 @@
+SCB3E0:60:AD:Infinite health[GGC]
+SC9E59:62:15:Have the Pink Ring (infinite health)[GGC]
+SC9F41:77:22:Create character with 8 life hearts[GGC]
+SC9F41:FF:22:Create character with 16 life hearts[GGC]
+SCA568:AD:CE:All items are free (1 of 2)[GGC]
+SC88EE:00:43:All items are free (2 of 2)[GGC]
+SCA976:AD:CE:Infinite Bombs[GGC]
+SCB68F:10:F0:No dark rooms[GGC]
+SA532:01:Reset counter to zero[GGC]
+SC9325:00:04:Eliminates almost all enemies in Overworld (1 of 3)[GGC]
+SC9326:00:05:Eliminates almost all enemies in Overworld (2 of 3)[GGC]
+SC9327:00:06:Eliminates almost all enemies in Overworld (3 of 3)[GGC]
+SC8897:00:C0:Fewer enemies[GGC]
+SC86E6:00:08:No Zolas[GGC]
+S8818:91:Speed writing[GGC]
+03DD:01:Turbo Sword
+04F0:09:Invincibility (blinking)
+0657:01:Have Wooden Sword
+0657:02:Have White Sword
+0657:03:Have Magic Sword
+0658:FF:Infinite Bombs (alt)
+0659:01:Have Arrows
+0659:02:Have Silver Arrows
+065A:01:Have Bow
+065B:01:Have Blue Candle
+065B:02:Have Red Candle
+065C:01:Have Flute
+065D:01:Have Enemy Bait
+065F:01:Have Magic Wand
+0660:01:Have Raft
+0661:01:Have Magic Book
+0663:01:Have Ladder
+0664:01:Have Magical Key
+0665:01:Have Power Bracelet
+0668:FF:Have Maps for Dungeons 1-8 and Compass for Dungeon 9 (1 of 2)
+0669:FF:Have Maps for Dungeons 1-8 and Compass for Dungeon 9 (2 of 2)
+066A:FF:Have Map for Dungeon 9
+066D:FF:Infinite Rupies
+066E:03:Infinite Keys
+0670:FF:Infinite health (alt)
+0671:FF:Have all Tri-Force pieces
+0676:01:Have Magical Shield

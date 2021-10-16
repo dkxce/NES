@@ -1,0 +1,3 @@
+Идет только под:
+  RockNESX
+  FCE Ultra

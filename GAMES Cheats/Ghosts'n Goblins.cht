@@ -1,0 +1,15 @@
+SCF5EC:00:01:Invincibility[GGC]
+SCD396:AD:CE:Infinite time[GGC]
+SCC609:01:03:1 life - both players[GGC]
+SCC609:06:03:6 lives - both players[GGC]
+SCC609:09:03:9 lives - both players[GGC]
+SCC907:AD:CE:Infinite lives - both players[GGC]
+SCC60A:8E:8D:4 lives - P1[GGC]
+SCD243:02:03:Speed up game[GGC]
+SCD243:04:03:Slow down game[GGC]
+00A7:0F:Enable stage select (disable after loading stage)
+00AA:00:Game difficulty - normal
+00AA:01:Game difficulty - hard
+00AA:02:Game difficulty - harder
+00AA:03:Game difficulty - hardest
+00AA:04:Game difficulty - expert

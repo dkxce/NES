@@ -1,0 +1,29 @@
+SA13A:3B:Invincibility - both players[GGC]
+SCE5A3:00:02:1 life - both players[GGC]
+SCE5A3:05:02:6 lives - both players[GGC]
+SCE5A3:08:02:9 lives - both players[GGC]
+SCE5A8:00:02:Activates 10 lives code[GGC]
+SCE5AA:1D:09:10 lives code give you 30[GGC]
+SCE583:01:00:Start at area 2[GGC]
+SCE583:02:00:Start at area 3[GGC]
+SCE583:03:00:Start at area 4[GGC]
+SCE583:04:00:Start at area 5[GGC]
+SCE583:05:00:Start at area 6[GGC]
+SCE583:06:00:Start at area 7[GGC]
+SCE4AF:F0:D0:Stage select after title screen[GGC]
+SCE6F6:00:02:Bonus life for each enemy soldier shot[GGC]
+SCE58D:06:02:9 continues[GGC]
+SCEA1A:A5:C6:Infinite continues[GGC]
+SCE5B4:B8:57:Start game with X Gun (1 of 3)[GGC]
+SCE5A1:57:B8:Start game with X Gun (2 of 3)[GGC]
+SCE5B2:02:00:Start game with Spray Gun (3 of 3)[GGC]
+SCE5B2:04:00:Start game with Fireball Gun (3 of 3)[GGC]
+S8870:F0:Run faster to the right[GGC]
+00D4:55:Invincibility (blinking)
+0053:03:Infinite lives
+00B8:81:Have the Machine Gun
+00B8:82:Have the Spread Gun
+00B8:83:Have the Laser Gun
+00B8:84:Have the Fireball Gun
+00B8:85:Have the Single Shot MG
+00B8:86:Have the Super Fireball Gun

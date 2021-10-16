@@ -1,0 +1,15 @@
+SCA0AF:AD:20:Infinite time[GGC]
+S971B:8F:Don't get knocked back when hit[GGC]
+S9B90:C5:Jump 3x as high[GGC]
+S9B90:E0:Jump 2x as high[GGC]
+002A:63:Infinite lives
+0045:40:Infinite health
+005B:02:Invincibility (blinking)
+0070:02:Have the best Whip
+0071:63:Infinite hearts (disable at end of stage)
+015B:08:Have the Knife
+015B:09:Have the Cross
+015B:0B:Have the Holy Water
+015B:0D:Have the Axe
+015B:0F:Have the Stopwatch
+01A9:00:Bosses have no health
